@@ -43,6 +43,7 @@ public final class CandidatoIndex
      */
     public CandidatoIndex(final Candidato candidato)
     {
+        
         this.fuente=candidato.getFuente();
         this.discapacidad=candidato.getDiscapacidad();        
         this.estado = candidato.estado;
