@@ -1,0 +1,175 @@
+#Sinónimos versión 3.4
+#Catálogo 8 (Grado de estudios)
+Preparatoria, prepa
+#Maestría, Posgrado
+#Doctorado, Posgrado
+#Catálogo 9 (Carreras)
+Administración, Administrador, Administradora
+Artes, Artista
+Dibujo, Dibujante
+Diseño, Diseñador, Diseñadora
+Enfermería, Enfermera, Enfermero
+Urgencias, Emergencias
+Idiomas, Lenguas
+Música, músico
+Gestión, Gestor, Gestora
+Organización, Organizador, Organizadora  
+Planeación, Planeador, Planeadora
+Ejecución, Ejecutante
+Interpretación, Intérprete
+Canto, Cantante
+Composición, compositor, compositora
+Contabilidad, Contable
+Contaduría, Contador, Contadora
+Comercio, Comerciante 
+Ventas, Vendedor, Vendedora 
+Comercialización, Comercializador, Comercializadora 
+Hotelería, Hotelero, Hotelera
+Correo, Cartero
+Auxiliar, Ayudante, Asistente, Colaborador
+Secretariado, Secretaria, Secretario
+Educación, Educador, Educadora
+Instrucción, Instructor, Instructora  
+Capacitación, Capacitador, Capacitadora 
+Docencia, Docente, Profesor, Profesora, Maestro, Maestra
+Pedagogía, Pegagogo, Pedagoga
+Computación, Informática, Multimedia, Sistemas, Cibernética
+Redes, Teleinformática, Telemática
+Programación, Programador, programadora
+Electricidad, Electrico 
+Electrónica, Circuitos, Microelectrónica
+Reparación, Reparador, Reparadora 
+Afinación, Afinador, Afinadora 
+Instalación, Instalador, Instaladora
+Mecánica, Mecánico
+Mecatrónica, Mecatrónico
+Bordado, Bordador, Bordadora 
+Confección, Confeccionador, Confeccionadora
+Corte, Cortador, Cortadora
+Sastrería, Sastre
+Transporte, Transportista, 
+Tracción, Vías, Estructuras
+Conductor, Operador
+Decoración, Decorador, decoradora 
+Artesanía, Artesano, Artesana
+Estilismo, Estilista
+Cosmetología, Cosmetologo, Cosmetologa 
+Capilicultura, Capilicultor, Capilicultora
+Etiqueta, Personalidad
+Peinado, Peinador, Peinadora
+#Refrigeración, Aire acondicionado
+Ediciones, Editor, Editora
+Encuadernación, Encuadernador
+Impresión, Impresor 
+Grabado, Grabador
+Manufactura, Manufacturero 
+Producción, Productor, Productora
+Modelado, Modelo 
+Moldeo, Moldeador
+Armamento, Artillería, Caballería
+Agente de policía, Detective
+Finanzas, Financiero 
+Crédito, banca
+Construcción, Constructor 
+Edificación, Edificador
+Riego, Regador 
+Drenaje, Drenador
+Veterinaria, Veterinario
+Zootecnia, Zootecnista
+Arquitectura, Arquitecto, Arquitecta
+Ecología, Ecologo 
+Botánica, Botánico
+Metereología, Meteorologo, Meteorologa
+Agricultura, Agricultor, Agricultora
+Ganadería, Ganadero, ganadera
+Criador, Criadora
+Limpieza, Limpiador, Limpiadora
+Salud, Salubridad
+Mecánico, Mecánica
+Terapia, Terapista
+Rehabilitación, Rehabilitador, Rehabilitadora 
+Terapéutica, Terapeuta
+Historia, Historiador, Historiadora 
+Antropología, Antropologo, Antropologa 
+Arqueología, Arqueologo, Arqueologa
+Química, Químico
+Periodismo, Periodista
+Reportero, Reportera
+Redacción, Redactor, Redactora
+Traducción, Traductor, traductora 
+Interpretación, Interprete
+Teología, Teologo, Teologa 
+Misionología, Misionologo, Misionologa
+Sociología, Sociologo, Sociologa
+Comunicación, Comunicador, Comunicadora 
+Propaganda, Propagandista 
+Derecho, Abogado, Abogada 
+Jurisprudencia, Jurisprudente
+Minería, minero 
+Extracción, Extractor 
+Exploración, Explorador 
+Explotación, Explotador
+Ingeniería, Ingeniero, Ingeniera 
+Fabricación, Fabricante
+Máquinas, Maquinaria
+Operación, Operador
+Policía, Oficial, Agente
+Medicina, Médico
+Cirugía, Cirujano, Cirujana 
+Doctor, Doctora 
+Literatura, Letras, Literato, Literata
+Lingüística, Lingüista
+Psicología, Psicólogo, Psicóloga
+Psicopedagogía, Psipedagogo, Psicopedagoga
+Psiquiatría, psiquiatra
+Geología, Geologo, Geologa 
+Geofísica, Geofísico
+Matemáticas, Matemático, Matemática
+Estadística, Estadista
+#Catálogo 10 (Estatus grado)
+Estudiante, Alumno
+Diploma, Certificado
+#Catálogo 11 (Idiomas)
+#NO APLICA
+#Catálogo 13 (Dominio)
+#NO APLICA
+#Catálogo 14 (Experiencia)
+#NO APLICA
+#Catálogo 15 (Tipo de empleo)
+#NO APLICA
+#Catálogo 21 (Ocupaciones)
+Afanado, Afanador, Afanadora 
+Ajuste, Ajustador
+Coordinación, Coordinador, Coordinadora 
+Supervisión, Supervisor, Supervisora
+Asesoría, Asesor, Asesora
+Consejería, Consejero, Consejera
+Consultoría, Consultor, consultora
+Asitencia, Asistente, auxiliar, ayudante
+Empleo, Empleado, Empleada
+Obrero, Obrera, Peón
+Trabajo, Trabajador, Trabajadora 
+Carpintería, Carpintero
+Carga, Cargador, cargadora
+Recolección, Recolector, recolectora
+Ensamblaje, Ensamblador, 
+Repartición, Repartidor, repartidora 
+Tejido, Tejedor, Tejedora 
+Verificación, Verificador, Verificadora
+Chofer, Conductor
+Decoración, Decorador, Decoradora 
+Electromecánica, Electromecánico
+Dirección, Director, Directora 
+Gestión, Gestor, Gestora 
+Gerencia, Gerente
+Jefatura, Jefe, Jefa
+Subdirección, Subdirector, Subdirectora 
+Subgerencia, Subgerente
+Pintura, Pintor, Pintora
+Restauración, Restaurador, Restauradora 
+Reparación, Reparador, Reparadora
+Ciencia, Cientifico, científica
+Química, Químico
+Física, Físico
+Astrofísica, Astrofísico
+bachillerato,preparatoria,vocacional

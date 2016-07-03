@@ -1,0 +1,162 @@
+#Sinónimos versión 3.4
+#Catálogo 8 (Grado de estudios)
+#Preparatoria, prepa
+#Maestría, Posgrado
+#Doctorado, Posgrado
+#Catálogo 9 (Carreras)
+Urgencia, Emergencia
+Idioma, Lengua, Lenguaje
+Gestión, Gestor
+Organización, Organizador
+Planeación, Planeador
+Ejecución, Ejecutante
+Interpretación, Intérprete
+Canto, Vocalización, Cantante, vocalista
+Composición, redacción		 
+Contabilidad, Contable
+Comercialización, Comercializador		
+Hotelería, Hotelero
+Correo, Cartero
+Capacitación, Capacitador 
+Docencia, Docente, Profesor, Maestro, Educador
+Pedagogía, Pedagogo
+Computación, Informática, Multimedia, Sistemas, Cibernética
+Redes, Teleinformática, Telemática
+Programación, Programador
+Electricidad, Eléctrico, Electrónica, Circuitos, Microelectrónica
+Reparación, Reparador 
+Afinación, Afinador 
+Instalación, Instalador
+Mecánica, Mecánico
+Mecatrónica, Mecatrónico
+Bordado, Bordador
+Confección, Confeccionador
+Corte, Cortador
+Sastrería, Sastre
+Transporte, Transportista
+Tracción, Vías, Estructuras
+Conductor, chofer
+Decoración, Decorador
+Artesanía, Artesano
+Estilismo, Estilista
+Cosmetología, Cosmetólogo
+Capilicultura, Capilicultor
+Peinado, Peinador
+Ediciones, Editor
+Encuadernación, Encuadernador
+Grabado, Grabador
+Manufactura, Manufacturero 
+Moldeo, Moldeador
+Armamento, Artillería
+Finanzas, Financiero 
+Crédito, banca
+Construcción, Constructor 
+Edificación, Edificador
+Riego, Regador 
+Drenaje, Drenador
+Zootecnia, Zootecnista
+Arquitectura, Arquitecto
+Ecología, Ecólogo 
+Meteorología, Meteorólogo
+Mercadotecnia, Mercadotécnico, Mercadólogo
+Agricultura, Agricultor
+Ganadería, Ganadero
+Limpieza, Limpiador
+Salud, Salubridad
+Terapia, Terapista
+Rehabilitación, Rehabilitador
+Terapéutica, Terapeuta
+Historia, Historiador
+Antropología, Antropólogo
+Arqueología, Arqueólogo
+Periodismo, Periodista
+Redacción, Redactor
+Traducción, Traductor
+Teología, Teólogo
+Misionología, Misionólogo
+Sociología, Sociólogo
+Comunicación, Comunicador
+Propaganda, Propagandista 
+Derecho, Abogado 
+Jurisprudencia, Jurisprudente
+Minería, minero 
+Extracción, Extractor 
+Explotación, Explotador
+Ingeniería, Ingeniero
+Fabricación, Fabricante
+Máquinas, Maquinaria
+Operación, Operador
+Policía, Oficial, Agente
+Medicina, Médico
+Cirugía, Cirujano
+Literatura, Letras, Literato
+Lingüística, Lingüista
+Psicología, Psicólogo
+Psicopedagogía, Psicopedagogo
+Psiquiatría, psiquiatra
+Geología, Geólogo
+Matemáticas, Matemático
+Estadística, Estadista
+#Catálogo 10 (Estatus grado)
+#Estudiante, Alumno
+#Diploma, Certificado
+#Catálogo 11 (Idiomas)
+#NO APLICA
+#Catálogo 13 (Dominio)
+#NO APLICA
+#Catálogo 14 (Experiencia)
+#NO APLICA
+#Catálogo 15 (Tipo de empleo)
+#NO APLICA
+#Catálogo 21 (Ocupaciones)
+Ajuste, Ajustador
+Coordinación, Coordinador
+Supervisión, Supervisor
+Asesoría, Asesor
+Consejería, Consejero
+Consultoría, Consultor
+Obrero, Peón
+Carpintería, Carpintero
+Carga, Cargador
+Recolección, Recolector
+Ensamblaje, Ensamblador, 
+Repartición, Repartidor
+Tejido, Tejedor
+Verificación, Verificador
+Chofer, Conductor
+Decoración, Decorador
+Dirección, Director
+Gestión, Gestor
+Gerencia, Gerente
+Jefatura, Jefe
+Subdirección, Subdirector
+Subgerencia, Subgerente
+Pintura, Pintor
+Restauración, Restaurador
+Reparación, Reparador
+Ciencia, Científico
+Bachillerato, Preparatoria, Vocacional
+Archivo, fichero
+Correspondencia, correo
+Trabajo, laboral
+Escolta, Guardaespaldas
+
+#Éstas son ocupaciones (derivadas de la lista "sinóimos.txt") se movieron de variantes a sinónimos por que causaban errores
+Panadero, Pastelero, Repostero
+Psicoanalista, Psicólogo, Psicoterapeuta
+Aeromoza, sobrecargo
+Cantante, vocalista
+Cantinero, barman, bartender
+Alfabetizador, Educador, Profesor, Maestro
+Climatólogo, meteorólogo
+Filólogo, Lingüista
+Heladero, nevero
+Administración, Administrador
+Dibujo, Dibujante, Diseñador gráfico, artes visuales, pintura, pintor
+Enfermería, Enfermero, Cuidado de la salud
+Contaduría, Contador
+Comerciante, Comercio, vendedor, ventas 
+Cartero, Mensajero
+Secretariado, Secretario
+Comediante, Cómico
+#Fin de ocupaciones

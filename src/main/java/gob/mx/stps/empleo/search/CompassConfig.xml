@@ -1,0 +1,50 @@
+
+<compass-core-config xmlns="http://www.compass-project.org/schema/core-config" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.compass-project.org/schema/core-config          http://www.compass-project.org/schema/compass-core-config-2.2.xsd">
+    <compass name="default">
+        <!--settings>
+            <setting name="compass.engine.mergeFactor" value="10000">
+            
+            <setting name="compass.engine.maxBufferedDocs" value="10000"></setting>
+            </settings-->
+            
+        <connection>
+         
+            <!-- <niofs path="/AppEmpleo/indices"/> -->
+            <niofs path="/indx"/><!--produccion -->           
+            <!--<directoryWrapperProvider name="vacante" type="org.compass.core.lucene.engine.store.infotec.SyncMemoryMirrorDirectoryWrapperProvider"/> -->
+            <directoryWrapperProvider name="prod" type="org.compass.core.lucene.engine.store.wrapper.SyncMemoryMirrorDirectoryWrapperProvider"/>
+    
+            
+            
+            
+            <!--niofs path="/mnt/gluster/prueba"/-->
+            <!-- <localCache subIndex="vacante" connection="ram://" />  -->
+            <!-- <coherence indexName="test" cacheName="demo" bucketSize="1024000"/> -->
+            <!--<file path="/idx"/>--> <!--- prueba for hadoop -->
+            <!-- <directoryWrapperProvider name="test"
+      type="gob.mx.stps.empleo.hadoop.HadoopDirectoryWrapperProvider">  </directoryWrapperProvider>-->
+        </connection> 
+    
+    
+     
+
+    
+        <transaction processor="mt" lockTimeout="15" lockPollInterval="100"/>
+        
+        
+           
+                 
+        <searchEngine>     	     
+            
+     	
+        <!--analyzer name="default" filters="synonymFilter" type="CustomAnalyzer" analyzerClass="gob.mx.stps.empleo.search.STPSAnalizer"/-->            
+            <analyzer name="default" filters="synonymFilter" type="Snowball"/>            
+            
+            
+            <analyzerFilter  name="synonymFilter" type="synonym">
+                <setting name="lookup" value="gob.mx.stps.empleo.search.STPSSynonymLookupProvider" />
+            </analyzerFilter>
+        </searchEngine>
+    </compass>
+</compass-core-config>
+

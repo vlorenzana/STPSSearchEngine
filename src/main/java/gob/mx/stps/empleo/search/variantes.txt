@@ -1,0 +1,2518 @@
+#Variantes versión 3.4
+#Catálogo 8 (Grado de estudios)
+Sin instrucción, sin educación, sin ningún grado de estudio, No tengo estudios
+No tengo estudios, Sin instrucción, sin educación, sin ningún grado de estudio
+Saber leer, leer, comprensión de lectura
+Saber escribir, escribir, escritura
+Primaria, escuela primaria
+Secundaria, escuela secundaria
+Carrera comercial, educación comercial
+Carrera técnica, educación técnica
+Carrera trunca, trunca
+Preparatoria, escuela preparatoria, educación preparatoria, educación media superior, prepa, bachillerato, nivel medio superior, medio superior, media superior
+Técnico Superior Universitario, Técnico Superior
+Licenciatura, educación superior, estudios universitarios, nivel superior
+Maestría, educación especializada, estudios de posgrado, posgrado
+Doctorado, especialización, estudios avanzados de posgrado, posgrado
+Media jornada, medio tiempo
+Jornada completa, tiempo completo
+#Catálogo 9 (Carreras)
+Artes gráficas grabado, Artes gráficas especializadas en grabado, Grabador 
+Artes gráficas litografía, Artes gráficas especializadas en litografía
+Artes gráficas serigrafía, Artes gráficas especializadas en serigrafía 
+Artes en cerámica, Artes especializadas en cerámica  
+Artes en escultura, Artes especializadas en escultura
+Artes plásticas en escultura, Artes plásticas especializadas en escultura
+Artes en fotografía, Artes especializadas en fotografía
+Artes en pintura, Artes especializadas en pintura
+Artes visuales en área de diseño, Artes visuales especializadas en área de diseño 
+Artes visuales en artes plásticas, Artes visuales especializadas en artes plásticas 
+Artes visuales en artes textiles, Artes visuales especializadas en artes textiles 
+Artes visuales en dibujo, Artes visuales especializadas en dibujo 
+Artes visuales en diseño gráfico, Artes visuales especializadas en diseño gráfico 
+Artes visuales en escultura, Artes visuales especializadas en escultura 
+Artes visuales en pintura, Artes visuales especializadas en pintura
+Artes en danza, Artes especializadas en danza 
+Artes en danza contemporánea, Artes especializadas en danza contemporánea 
+Artes escénicas en danza contemporánea, Artes escénicas especializadas en danza contemporánea 
+Artes escénicas en danza folklórica, Artes escénicas especializadas en danza folklórica
+Artes en actuación, Artes especializadas en actuación 
+Artes escénicas en teatro, Artes escénicas especializadas en teatro
+Artes visuales en artes camarográficas, Artes visuales especializadas en artes camarográficas
+Artes visuales en artes escenográficas, Artes visuales especializadas en artes escenográficas  
+Artes visuales en arte urbano, Artes visuales especializadas en arte urbano 
+Artes visuales en comunicación, Artes visuales especializadas en comunicación
+Artes visuales en diseño gráfico, Artes visuales especializadas en diseño gráfico
+Artes visuales en grabado, Artes visuales especializadas en grabado
+
+Dibujo arquitectónico, Dibujo aplicado en arquitectura
+Dibujo de planos arquitectónicos, Dibujo aplicado en planos arquitectónicos
+Dibujo industrial, Dibujo aplicado en la industria
+Dibujo mecánico, Dibujo aplicado en la mecánica
+Dibujo publicitario, Dibujo aplicado en la publicidad
+Dibujo industrial por computadora, Dibujo industrial diseñado por computadora
+Dibujo de modas, Dibujo aplicado en la moda
+Dibujo de tubería, Dibujo aplicado en sistemas de tubería
+Dibujo topográfico, Dibujo aplicado en la topografía
+
+Diseñador de modas, Diseño aplicado en la industria de la moda
+Diseño por computadora, Diseño asistido por computadora
+Diseño arquitectónico, Diseño aplicado en la arquitectura
+Diseño urbano, Diseño especializado en urbanismo
+Diseño urbano arquitectónico, Diseño especializado en urbanismo arquitectónico
+Diseño bioclimático, Diseño de bioclimas
+Diseño editorial, Diseño aplicado en la industria editorial
+Diseño industrial en ergonomía, Diseño industrial especializado en ergonomía
+Diseño industrial en metodología, Diseño industrial especializado en metodología
+Diseño industrial en resistencia de materiales, Diseño industrial especializado en resistencia de materiales
+Diseño industrial en materiales, Diseño industrial especializado en materiales
+Diseño industrial en teoría del diseño, Diseño industrial especializado en teoría del diseño
+Diseño mecánico, Diseño aplicado en mecánica
+Diseño textil, Diseño aplicado en la industria textil
+Diseño bidimensional, Diseño en dos dimensiones
+Diseño tridimensional, Diseño en tres dimensiones
+Diseño artesanal, Diseño aplicado en el campo artesanal, Diseño de artesanías
+Diseño artístico industrial, Diseño industrial especializado en el arte
+Diseño de muebles, Diseño de mobiliario
+Diseño industrial de interiores, Diseño industrial especializado en interiores
+Diseño industrial del ambiente, Diseño industrial especializado en el ambiente
+Diseño industrial en desarrollo, Diseño industrial especializado en desarrollo
+Diseño industrial en planeación, Diseño industrial especializado en planeación
+Diseño industrial en realización, Diseño industrial especializado en realización
+Diseño ambiental, Diseño de ambientes
+Diseño de interiores, Diseño de espacios internos
+Diseño de paisaje, Diseño paisajista
+Diseño de indumentaria, Diseño de ropa, Diseño de vestimenta
+Diseño de la moda en indumentaria, Diseño de la moda especializado en indumentaria
+Diseño gráfico digital, Diseño especializado en gráficos digitales
+Diseño gráfico electrónico, Diseño especializado en gráficos electrónicos
+Diseño gráfico para la comunicación, Diseño gráfico aplicado en la comunicación
+Diseño publicitario, Diseño de campañas publicitarias, Diseñador publicitario
+Diseño de patrones de tejido de punto, Diseño especializado en patrones de tejido de punto 
+Diseño de patrones industriales, Diseño especializado en patrones industriales
+Diseño decorativo, Diseño ornamental
+Diseño industrial de equipos electrónicos, Diseño industrial especializado en equipos electrónicos
+Diseño industrial de patentes, Diseño industrial especializado en patentes
+Diseño industrial de patrones, Diseño industrial especializado en patrones
+
+Serigrafía, estampación
+Agroindustria, Industria agrícola
+
+Apicultura, cría de abejas, crianza de abejas, cultivo de abejas
+
+Maquinaria agrícola, máquinas agrícolas
+
+Ebanistería, taller de ebanista
+
+Auxiliar de enfermería, Auxiliar en servicios de enfermería 
+Auxiliar contable, Auxiliar de contabilidad
+Auxiliar de recepción de hotel, Auxiliar en recepción hotelera 
+Auxiliar en puericultura, Auxiliar en crianza especializada
+Auxiliar de soldadura, Auxiliar en el área de soldadura 
+Auxiliar de educadora, Auxiliar en educación
+Auxiliar de fotógrafo, Auxiliar en fotografía 
+Auxiliar de actuario, Auxiliar en actuaria 
+Auxiliar de estadística, Auxiliar en el área de estadística
+Auxiliar en matemáticas, Auxiliar en el área de matemáticas 
+Auxiliar de cartógrafo, Auxiliar en cartografía 
+Auxiliar de laboratorio de electrocardiogramas, Auxiliar en el área de laboratorio de electrocardiogramas 
+Auxiliar de fisioterapeuta, Auxiliar en fisioterapia 
+Auxiliar de médico, Auxiliar en medicina 
+Auxiliar de pediatra, Auxiliar en pediatría 
+Auxiliar de quiropráctico, Auxiliar en quiropráctica 
+Auxiliar terapéutico, Auxiliar en terapia 
+Auxiliar en sistemas, Auxiliar en el área de sistemas 
+Auxiliar de compras, Auxiliar en el área de compras 
+Auxiliar publicitario, Auxiliar en publicidad 
+Auxiliar de tesorería, Auxiliar en el área de tesorería 
+Auxiliar de biblioteca, Auxiliar en biblioteca 
+Auxiliar de limpieza, Auxiliar en el área de limpieza 
+Auxiliar de laboratorio químico, Auxiliar en laboratorio químico 
+Auxiliar postal, Auxiliar en oficina postal 
+Auxiliar de diseño urbano, Auxiliar en el área de diseño urbano 
+Auxiliar en representación arquitectónica, Auxiliar en el área de representación arquitectónica 
+Auxiliar bancario, Auxiliar de banco, Auxiliar de institución bancaria
+
+Salud animal de bovinos en el trópico húmedo, Salud animal especializada en bovinos en el trópico húmedo
+Salud de nivel medio superior, Salud a nivel medio superior
+Salud de nivel superior, Salud a nivel superior
+Salud comunitaria, Salud en la comunidad
+Salud en el trabajo, Salud en el lugar de trabajo
+Salud mental comunitaria, Salud mental en la comunidad
+Salud mental publica, Salud mental a nivel público
+Salud publica en administración de salud, Salud pública especializada en administración de salud
+Salud publica en epidemiologia, Salud pública especializada en epidemiología
+Salud publica en nutrición comunitaria, Salud pública especializada en nutrición comunitaria
+Salud publica en odontología social, Salud pública especializada en odontología social
+Salud publica en regularización, Salud pública especializada en regularización
+Salud publica en salud en el trabajo, Salud pública especializada en salud en el trabajo
+Salud reproductiva, Salud de la reproducción
+
+Enfermería cardiológica, Enfermería especializada en cardiología
+Enfermería en fisioterapia, Enfermería en terapia física 
+Enfermería pediátrica, Enfermería especializada en pediatría 
+Enfermería psiquiátrica, Enfermería especializada en psiquiatría 
+Enfermería quirúrgica, Enfermería especializada en cirugía 
+Enfermería administrativa, Enfermería especializada en administración 
+Enfermería familiar, Enfermería para la familia 
+Enfermería homeópata, Enfermería especializada en homeopatía 
+Enfermería industrial, Enfermería para la industria 
+Enfermería en administración de servicios, Enfermería especializada en administración de servicios
+Enfermería en administración en servicios de enfermería, Enfermería especializada en administración en servicios de enfermería 
+Enfermería en cuidados intensivos, Enfermería especializada en cuidados intensivos
+Enfermería en salud comunitaria, Enfermería especializada en salud comunitaria 
+Enfermería en salud mental, Enfermería especializada en salud mental 
+Enfermería en salud ocupacional, Enfermería especializada en salud ocupacional 
+Enfermería en salud pública, Enfermería especializada en salud pública 
+
+Gerontología, cuidado de la vejez
+Urgencias médicas, emergencias médicas, urgencias de salud, emergencias de salud
+
+Comunicación social, Comunicación en sociedad
+Comunicación audiovisual, Comunicación de medios audiovisuales
+Comunicación educativa, Comunicación en educación
+Comunicación en periodismo, Comunicación especializada en periodismo
+Comunicación en área deportiva, Comunicación especializada en área deportiva
+Comunicación en cine, Comunicación especializada en cine
+Comunicación en creatividad, Comunicación especializada en creatividad
+Comunicación en letras, Comunicación especializada en letras
+Comunicación en medios masivos, Comunicación especializada en medios masivos
+Comunicación en mercadotecnia, Comunicación especializada en mercadotecnia
+Comunicación en publicidad, Comunicación especializada en publicidad
+Comunicación en radio, Comunicación especializada en radio
+Comunicación en televisión, Comunicación especializada en televisión
+Comunicación gráfica en desarrollo, Comunicación gráfica especializada en desarrollo 
+Comunicación institucional, Comunicación en las instituciones
+Comunicación multimedia, Comunicación especializada en elementos multimedia
+Comunicación organizacional, Comunicación de las organizaciones
+Comunicación rural, Comunicación especializada en el ámbito rural
+Comunicación social en periodismo, Comunicación social especializada en periodismo
+Comunicación social en publicidad, Comunicación social especializada en publicidad
+Comunicación turística, Comunicación en turismo 
+Comunicación empresarial, Comunicación en las empresas
+
+Lenguas extranjeras, Lenguas del extranjero 
+Lenguas modernas alemanas, Lenguas modernas especializadas en alemán
+Lenguas modernas en español, Lenguas modernas especializadas en español
+Lenguas modernas francesas, Lenguas modernas especializadas en francés
+Lenguas modernas inglesas, Lenguas modernas especializadas en inglés
+Lenguas modernas italianas, Lenguas modernas especializadas en italiano
+Lenguas orientales, Lenguas de oriente
+
+Formación artística, entrenamiento artístico 
+Formación artística de nivel medio superior, Entrenamiento artístico a nivel medio superior 
+
+Actor, Representación histriónica, Histrionismo
+
+Ejecutante de instrumento musical, Intérprete de instrumento musical
+
+Música en cuerdas, Música de cuerdas, Música de instrumentos de cuerda
+Música en dirección coral, Música en dirección de coros
+Música en ejecución instrumental, Música en ejecución de instrumentos
+Música en interpretación, Música especializada en interpretación 
+Música en jazz, Música especializada en jazz, Jazz
+Música en producción, Música especializada en producción 
+Música sacra, Música especializada en lo sacro
+
+Administración de empresas turísticas, Administración de empresas de turismo
+Administración de pequeñas instituciones, Administración de instituciones pequeñas
+Administración de servicios alimenticios, Administración de servicios de alimentos
+Administración de escuelas, Administración escolar, Administración de instituciones educativas
+Administración de hospitales, Administración de instituciones hospitalarias
+Administración de hoteles, Administración hotelera
+Administración de personal, Administración de plantilla laboral, Administración de empleados
+Administración de procesos industriales, Administración de procesos de la industria
+Administración de recursos marinos, Administración de recursos del mar
+Administración de sistemas computacionales, Administración de sistemas de computación
+Administración de sistemas de computación administrativa, Administración de sistemas de computación en administración
+Administración de sistemas financieros, Administración de sistemas en finanzas
+Administración del deporte, Administración deportiva 
+Administración del tiempo libre, Administración del tiempo disponible
+Administración ejidal, Administración de ejidos
+Administración en comercialización, Administración especializada en comercialización
+Administración en desarrollo empresarial, Administración en desarrollo de las empresas
+Administración en estadística, Administración especializada en estadística 
+Administración en manufactura, Administración especializada en manufactura
+Administración en mercadotecnia, Administración especializada en mercadotecnia 
+Administración en mercadotecnia internacional, Administración especializada en mercadotecnia internacional
+Administración en organizaciones marinas, Administración especializada en organizaciones marinas, Administración especializada en organizaciones del mar
+Administración en producción, Administración especializada en producción
+Administración en promoción industrial, Administración en promoción de la industria, Administración especializada en promoción industrial, Administración especializada en promoción de la industria
+Administración en promoción, Administración especializada en promoción 
+Administración en relaciones industriales, Administración especializada en relaciones industriales, Administración especializada en relaciones de la industria
+Administración en sistemas funcionales de las empresas, Administración en sistemas funcionales empresariales, Administración especializada en sistemas funcionales de las empresas, Administración especializada en sistemas funcionales empresariales
+Administración estratégica, Administración de estrategias
+Administración bancaria, Administración de bancos, Administración de instituciones bancarias
+Administración hotelera, Administración de hoteles 
+Administración industrial, Administración de la industria 
+Administración laboral, Administración del empleo
+Administración militar, Administración de fuerzas militares 
+Administración municipal, Administración de municipios 
+Administración naval, Administración de navíos 
+Administración pública en administración de universidades, Administración pública especializada en administración de universidades, Administración pública en administración de instituciones universitarias  
+Administración aduanal, Administración de aduanas
+Administración agroindustrial, Administración en agroindustrias
+Administración pesquera, Administración en pesca,  Administración pública especializada en pesca
+Administración agrotecnologica, Administración en agrotecnología,  Administración pública especializada en agrotecnología 
+Administración comercial, Administración de comercios 
+Administración de agronegocios, Administración de negocios agrícolas 
+Administración de empresas acuícolas, Administración empresarial acuícola
+Administración de empresas agropecuarias, Administración empresarial agropecuaria 
+Administración de empresas hoteleras, Administración empresarial hotelera 
+Administración de empresas marinas, Administración empresarial marina 
+Administración de empresas pesqueras, Administración empresarial pesquera 
+Administración de empresas públicas, Administración empresarial pública
+Administración de empresas rurales, Administración empresarial rural
+Administración con acentuación en finanzas, Administración abocada a las finanzas
+Administración con enfoque estratégico, Administración enfocada a la estrategia 
+Administración de empresas de la construcción, Administración empresarial de la construcción 
+Administración de empresas en comercialización estratégica, Administración empresarial en comercialización estratégica
+Administración de empresas en dirección del factor humano, Administración empresarial en dirección del factor humano 
+Administración de empresas en finanzas, Administración empresarial en finanzas
+Administración de empresas en ingeniería financiera, Administración empresarial en ingeniería financiera
+Administración de empresas en mercadotecnia, Administración empresarial en mercadotecnia 
+Administración de empresas en mercadotecnia de servicios, Administración empresarial en mercadotecnia de servicios
+Administración de empresas en negocios internacionales, Administración empresarial en negocios internacionales
+Administración de empresas en organización general, Administración empresarial general
+Administración empresarial en organización general, Administración de empresas en organización general
+Administración de empresas en proyectos de inversión, Administración empresarial en proyectos de inversión
+Administración de empresas en recursos humanos, Administración empresarial en recursos humanos, Administración empresarial en RRHH
+Administración de empresas en relaciones industriales, Administración empresarial en relaciones industriales
+Administración de empresas en sistemas de información administrativa, Administración empresarial en sistemas de información administrativa
+Administración de empresas en telecomunicaciones, Administración empresarial en telecomunicaciones 
+Administración de empresas portuarias, Administración empresarial portuaria
+Administración de la atención médica, Administración del cuidado médico
+Administración de la calidad de la industria alimentaria, Administración de la calidad de la industria de los alimentos
+Administración de la construcción, Administración de la industria de la construcción
+Administración de la empresa industrial, Administración de empresas industriales
+Administración de la transformación, Administración transformativa 
+Administración de las telecomunicaciones, Administración de la industria de las telecomunicaciones 
+Administración de tecnología educativa, Administración de tecnología de la educación
+Administración de tecnologías de información, Administración de tecnologías informativas 
+Administración del comercio exterior, Administración del comercio externo
+Administración en análisis de decisiones, Administración en análisis de resoluciones, Administración especializada en análisis de decisiones
+Administración en atención de enfermería, Administración especializada en atención de enfermería
+Administración en comercialización estratégica, Administración especializada en comercialización estratégica
+Administración en derecho fiscal, Administración especializada en derecho fiscal 
+Administración en estudios fiscales, Administración especializada en estudios fiscales
+Administración en finanzas, Administración especializada en finanzas 
+Administración en información administrativa, Administración especializada en información administrativa 
+Administración en informática, Administración especializada en informática 
+Administración en ingeniería administrativa, Administración especializada en ingeniería administrativa
+Administración en ingeniería financiera, Administración especializada en ingeniería financiera
+Administración en instituciones de salud, Administración especializada en instituciones de salud
+Administración en mercadotecnia, Administración especializada en mercadotecnia
+Administración en mercadotecnia en negocios turísticos, Administración especializada en mercadotecnia en negocios turísticos
+#Administración militar para la defensa nacional, Administración de recursos militares para la defensa nacional 
+Administración militar para la seguridad,Administración militar para la defensa nacional
+Administración tributaria, Administración de recursos tributarios 
+Administración turística, Administración del turismo
+ 
+Contabilidad agropecuaria, Contabilidad especializada en la industria agropecuaria
+Contabilidad pública, Contabilidad de acceso público
+Contabilidad administrativa, Contabilidad especializada en administración
+Contabilidad en liquidación, Contabilidad especializada en liquidación
+Contabilidad financiera, Contabilidad especializada en finanzas 
+Contabilidad fiscal, Contabilidad especializada en área fiscal
+Contabilidad corporativa, Contabilidad de corporaciones
+
+Contador privado, Contador particular
+Contador privado en informática, Contador particular en informática 
+Contador comercial bancario, Contador comercial en área bancaria
+Contador público, Contador de acceso público 
+Contador público auditor, Contador de acceso público especializado en auditorías 
+Contador público en administración financiera, Contado de acceso público especializado en administración financiera
+Contador público en mercadotecnia, Contador de acceso público especializado en mercadotecnia 
+Contador público en relaciones industriales, Contador de acceso público especializado en relaciones industriales
+Contador fiscal, Contador especializado en área fiscal
+
+Comercio exterior, Comercio externo
+Comercio internacional en agronegocios, Comercio internacional especializado en agronegocios 
+Comercio internacional en productos agropecuarios, Comercio internacional especializado en productos agropecuarios
+ 
+Servicios turísticos, Servicios de turismo
+Servicios de restaurante, Servicios restauranteros 
+Servicios de belleza, Servicios cosméticos 
+Servicios industriales manuales, Servicios manuales de la industria 
+Servicios industriales navales, Servicios de la industria naval
+Servicios industriales navales en refinería, Servicios de la industria naval en refinería
+Servicios de belleza de nivel medio superior, Servicios cosméticos de nivel medio superior 
+Servicios urbanos, Servicios municipales
+Servicios de hospedaje, Servicios de alojamiento
+
+Turismo cultural, Turismo de sitios culturales 
+Turismo en administración de agencias de viajes, Turismo administrativo de agencias de viajes
+Turismo en planeación, Turismo especializado en planeación
+Turismo internacional, Turismo exterior
+Turismo ejidal, Turismo en ejidos 
+Turismo alternativo, Turismo alterno 
+Turismo sustentable, Turismo de sustento
+
+Secretaria bilingüe, Secretaria hablante de dos idiomas
+Secretaria capturista, Secretaria especializada en captura
+Secretaria comercial, Secretaria especializada en comercio
+Secretaria corresponsal en español, Secretaria corresponsal especializada en español
+Secretaria empresarial, Secretaria en empresa
+Secretaria en áreas contables, Secretaria especializada en áreas contables
+Secretaria en áreas comerciales, Secretaria especializada en áreas comerciales
+Secretaria en español, Secretaria especializada en español
+Secretaria taquimecanógrafa en informática, Secretaria taquimecanógrafa especializada en informática
+Secretaria recepcionista, Secretaria en recepción
+Secretaria bilingüe operador en computadoras, Secretaria bilingüe operador especializada en computadoras
+Secretaria comercial ejecutiva, Secretaria comercial en área ejecutiva
+Secretaria contador de comercio, Secretaria contador especializada en comercio
+Secretaria en informática, Secretaria especializada en informática
+Secretaria industrial bilingüe, Secretaria industrial hablante de dos idiomas
+Secretaria trilingüe, Secretaria hablante de tres idiomas
+
+Secretariado en inglés, Secretariado especializado en inglés
+Secretariado de nivel medio superior, Secretariado a nivel medio superior
+Secretariado ejecutivo, Secretariado a nivel ejecutivo
+Secretariado de nivel superior, Secretariado a nivel superior
+
+Educación preescolar, Educación a nivel preescolar
+Educación familiar, Educación de la familia 
+Educación física, Educación especializada en acondicionamiento físico 
+Educación inicial, Educación temprana 
+Educación preescolar bilingüe, Educación bilingüe a nivel preescolar
+Educación preescolar indígena, Educación indígena a nivel preescolar
+Educación básica bilingüe, Educación bilingüe a nivel básico
+Educación primaria indígena, Educación indígena a nivel primaria 
+Educación con acentuación en enseñanza bilingüe, Educación especializada en enseñanza bilingüe 
+Educación en secundaria, Educación a nivel secundaria 
+Educación media, Educación a nivel medio 
+Educación media con especialidades, Educación a nivel medio con especialidades 
+Educación media en actividades tecnológicas, Educación a nivel medio en actividades tecnológicas
+Educación media en administración escolar, Educación a nivel medio en administración escolar 
+Educación media en artes plásticas, Educación a nivel medio en artes plásticas
+Educación media en ciencias biológicas, Educación a nivel medio en ciencias biológicas 
+Educación media en ciencias de la educación, Educación a nivel medio en ciencias de la educación 
+Educación media en ciencias naturales, Educación a nivel medio en ciencias naturales
+Educación media en ciencias químico biológicas,  Educación a nivel medio en ciencias químico biológicas
+Educación media en psicopedagogía,  Educación a nivel medio en psicopedagogía 
+Educación media en química, Educación a nivel medio en química
+Educación media en telesecundaria,  Educación a nivel medio en telesecundaria 
+Educación media multidisciplinaria,  Educación multidisciplinaria a nivel medio 
+Educación en asesoría psicopedagógica, Educación especializada en asesoría psicopedagógica 
+Educación en investigación educativa, Educación especializada en investigación educativa 
+Educación especial en audición, Educación particular en audición 
+Educación especial en ceguera, Educación particular en ceguera  
+Educación especial en deficientes mentales, Educación particular en deficientes mentales 
+Educación especial en educación indígena, Educación particular en educación indígena
+Educación especial en problemas de aprendizaje,  Educación particular en problemas de aprendizaje 
+Educación especial en trastornos neurológicos, Educación ´particular en trastornos neurológicos
+Educación especial en trastornos neuromotores,  Educación particular en trastornos neuromotores 
+Educación física en ciencias del deporte, Educación física especializada en ciencias del deporte 
+Educación física en futbol, Educación física especializada en futbol  
+Educación artística escolar, Educación artística a nivel escolar 
+Educación agrícola superior, Educación agrícola a nivel superior 
+Educación ambiental, Educación sobre el ambiente 
+Educación de la sexualidad humana, Educación especializada en sexualidad humana, Educación sexual
+Educación en administración, Educación administrativa 
+Educación en administración educativa, Educación administrativa en educación
+Educación en ciencias biológicas, Educación especializada en ciencias biológicas 
+Educación en ciencias históricas, Educación especializada en ciencias históricas
+Educación en ciencias naturales, Educación especializada en ciencias naturales
+Educación en comunicación educativa, Educación especializada en comunicación educativa
+Educación en desarrollo cognitivo, Educación especializada en desarrollo cognitivo
+Educación en desarrollo curricular, Educación especializada en desarrollo curricular
+Educación en el campo de la educación indígena, Educación especializada en el campo de la educación indígena
+Educación en formación docente, Educación especializada en formación docente 
+Educación en historia de la educación regional, Educación especializada en historia de la educación regional 
+Educación en humanidades, Educación especializada en humanidades 
+Educación en intervención pedagógica, Educación especializada en intervención pedagógica
+Educación en lingüística aplicada, Educación especializada en lingüística aplicada 
+Educación en matemáticas, Educación especializada en matemáticas 
+Educación en orientación escolar, Educación especializada en orientación escolar
+Educación en planeación educativa, Educación especializada en planeación educativa
+Educación en práctica docente, Educación especializada en práctica docente
+Educación en práctica educativa, Educación especializada en práctica educativa
+Educación media en ciencias sociales, Educación en ciencias sociales a nivel medio
+Educación media en diagnóstico, Educación en diagnóstico a nivel medio
+Educación media en matemáticas, Educación en matemáticas a nivel medio
+Educación universitaria, Educación a nivel universidad 
+Educación odontológica, Educación en odontología
+Educación permanente, Educación continúa
+Educación tecnológica, Educación en tecnología
+
+Instructor de artes plásticas, Instructor de la disciplina de artes plásticas
+Instructor de danza mexicana, Instructor de la disciplina de danza mexicana
+Instructor de música, Instructor de clases de música
+Instructor de artesanías, Instructor de clases de artesanías
+Instructor de administración, Instructor administrativo
+Instructor de educación vial, Instructor especializado en educación vial
+Instructor de manejo, Instructor de clases de manejo
+Instructor de modelaje, Instructor de clases de modelaje
+Instructor de vuelo, Instructor de clases de vuelo
+Instructor en electrónica, Instructor especializado en electrónica
+Instructor tejido, Instructor de clases de tejido
+Instructor en mantenimiento industrial, Instructor especializado en mantenimiento industrial
+Instructor deportivo, Instructor en deportes, Instructor especializado en deportes
+Instructor acondicionamiento físico, Instructor en acondicionamiento físico, Instructor especializado en acondicionamiento físico
+Instructor de artes marciales, Instructor de clases de artes marciales
+Instructor de futbol, Instructor de clases de futbol
+Instructor de gimnasio de físico culturismo, Instructor de gimnasio especializado en físico culturismo
+Instructor de golf, Instructor de clases de golf
+Instructor de natación, Instructor de clases de natación
+Instructor de tai chi, Instructor de clases de tai chi
+Instructor de tenis, Instructor de clases de tenis
+Instructor de yoga, Instructor de clases de yoga
+Instructor de zumba, Instructor de clases de zumba
+
+Inspector de comercios, Inspector a cargo de comercios
+Inspector de construcción, Inspector a cargo de zonas de construcción
+Inspector de licencias a negocios, Inspector a cargo de licencias a negocios
+Inspector de reglamentos, Inspector a cargo de reglamentos
+Inspector de vialidad, Inspector a cargo de vialidad
+Inspector de vigilancia municipal, Inspector a cargo de vigilancia municipal
+
+Profesor de música, Profesor de clases de música, Maestro de música
+Profesor de artes plásticas, Profesor de la disciplina de artes plásticas, Maestro de artes plásticas
+Profesor de artesanías, Profesor de clases de artesanías, Maestro de artesanías
+Profesor de canto, Profesor de clases de canto, Maestro de canto
+Profesor de composición musical, Profesor de clases de composición musical, Maestro de composición musical
+Profesor de dibujo, Profesor de clases de dibujo, Maestro de dibujo
+Profesor de educación musical, Profesor especializado en educación musical, Maestro de educación musical
+Profesor de instrumentos de aliento, Profesor especializado en instrumentos de aliento, Maestro de instrumentos de aliento
+Profesor de instrumentos de cuerda, Profesor especializado en instrumentos de cuerda, Maestro de instrumentos de cuerda
+Profesor de música escolar, Profesor de clases de música escolar, Maestro de música escolar
+Profesor de orientación educativa, Profesor a cargo de orientación educativa, Maestro de orientación educativa
+Profesor de piano, Profesor especializado en piano, Maestro de piano
+Profesor de pintura, Profesor especializado en pintura, Maestro de pintura
+Profesor de jazz, Profesor especializado en jazz, Maestro de jazz
+Profesor de administración en escuela comercial, Profesor especializado en administración de escuela comercial
+Profesor de contabilidad en escuela comercial, Profesor especializado en contabilidad de escuela comercial
+
+Construcción naval, Construcción de navíos, Técnico en construcción naval
+Construcción urbana, Construcción en entorno urbano
+Construcción en administración de obras, Construcción especializada en administración de obras
+Construcción de obras, Construcción especializada en obras
+Construcción de carreteras, Construcción especializada en carreteras
+
+Operación de equipo pesado, Operación especializada en equipo pesado
+Operación de microcomputadoras, Operación especializada en microcomputadoras
+Operación de máquinas industriales, Operación especializada en máquinas industriales
+Operación de farmacias, Operación especializada en farmacias
+Operación de plantas químicas, Operación especializada en plantas químicas
+Operación de minas subterráneas, Operación especializada en minas subterráneas
+
+Computación administrativa, Computación en administración 
+Computación secretarial, Computación especializada en el ámbito secretarial
+Computación educativa, Computación en educación 
+Computación estadística, Computación especializada en estadística
+
+Informática administrativa, Informática en administración, Licenciado en informática administrativa 
+Informática contable,  Informática en contabilidad
+Informática agropecuaria, Informática especializada en la industria agropecuaria 
+
+Programación de equipo de cómputo, Programación de equipos computacionales
+Programación en contabilidad, Programación especializada en contabilidad
+
+Sistemas computacionales, Sistemas de cómputo
+Sistemas eléctricos automotrices, Sistemas eléctricos en la industria automotriz
+Sistemas de inyección de gasolina, Sistemas de inyección de combustible
+Sistemas de control industrial, Sistemas de control en la industria
+Sistemas electrónicos de aviación, Sistemas electrónicos especializados en aviación
+Sistemas automotrices, Sistemas de la industria automotriz
+Sistemas mecánicos industriales, Sistemas mecánicos en la industria
+Sistemas térmicos, Sistemas de control térmico
+Sistemas de producción agropecuaria, Sistemas de producción en ámbito agropecuario
+Sistemas ambientales, Sistemas en el medio ambiente
+Sistemas de ahorro de energía, Sistemas especializados en ahorro de energía
+Sistemas de información administrativa, Sistemas de información en administración 
+Sistemas de calidad en sistemas, Sistemas de calidad especializados en sistemas 
+Sistemas de manufactura en automatización de plantas de manufactura, Sistemas de manufactura especializados en automatización de plantas de manufactura
+Sistemas de manufactura en ingeniería de materiales, Sistemas de manufactura especializados en ingeniería de materiales
+Sistemas constructivos, Sistemas de construcción 
+Sistemas constructivos asistidos por computadora, Sistemas de construcción asistidos por computadora 
+Sistemas de transporte, Sistemas especializados en transporte
+
+Electrónica en sistemas de comunicación, Electrónica especializada en sistemas de comunicación
+Electrónica aeronáutica, Electrónico especializada en aeronáutica
+Electrónica de aviación, Electrónica especializada en aviación
+Electrónica en liquidación, Electrónica especializada en liquidación
+Electrónica industrial en instrumentación, Electrónica industrial especializada en instrumentación
+Electrónica marina, Electrónica del mar
+Electrónica en diseño de circuitos integrados, Electrónica especializada en diseño de circuitos integrados
+Electrónica en ingeniería de sistemas computacionales, Electrónica especializada en ingeniería de sistemas computacionales
+Electrónica en instrumentación electrónica, Electrónica especializada en instrumentación electrónica
+
+Mecánica automotriz, Mecánica en la industria automotriz
+Mecánica en fuerza motriz, Mecánica especializada en fuerza motriz 
+Mecánica en máquinas, Mecánica especializada en máquinas 
+Mecánica en aeronáutica, Mecánica especializada en aeronáutica 
+Mecánica en maquinaria agrícola, Mecánica especializada en maquinaria agrícola 
+Mecánica naval, Mecánica en la industria naval 
+ 
+Reparación de aparatos electrodomésticos, Reparación especializada en aparatos electrodomésticos,  Reparador de aparatos electrodomésticos
+Reparador de aparatos eléctricos, Reparador de aparatos electrónicos, Reparación especializada en aparatos electromecánicos
+Reparación de transmisiones, Reparación especializada en transmisiones 
+
+Alimentos marinos, Alimentos del mar 
+Alimentos marinos en industrias pesqueras, Alimentos del mar en industrias pesqueras 
+Alimentos en desarrollo de productos, Alimentos aplicados en desarrollo de productos 
+Alimentos en producción, Alimentos aplicados en producción 
+Alimentos marinos en alimentos balanceados, Alimentos del mar en alimentos balanceados 
+Alimentos marinos en servicios gastronómicos, Alimentos del mar en servicios gastronómicos
+
+Industria de la panificación, Industria del pan, Panificadora
+Industria decorativa, Industria de la decoración 
+Industria de la carne, Industria productora de carne 
+Industria pesquera, Industria de la pesca
+
+Conservación de alimentos, Conservación alimentaria 
+Conservación del patrimonio edificado, Conservación de edificios patrimoniales
+
+Bordado en máquina, Bordado automatizado en máquina
+
+Confección industrial de ropa, Confección en la industria de la ropa 
+
+Historia del vestido, Industria del vestido en la historia
+
+Sastrería industrial, Industria de la sastrería
+
+#Términos con "OPERADOR" se movieron a referenciales
+
+Piloto aviador, Piloto de aviación
+Piloto comercial, Piloto de línea comercial
+Piloto aeroagrícola, Piloto en la industria agrícola
+Piloto aviador comercial, Piloto de aviación comercial
+Piloto aviador militar, Piloto de aviación militar
+Piloto comercial ala fija, Piloto comercial de ala fija
+
+Telecomunicaciones de ferrocarril, Telecomunicaciones en la industria ferroviaria
+
+Artesanías manuales, Artesanías hechas a mano
+Artesanías de precisión, Artesanías de técnica especializada
+
+Arte decorativo, Arte de la decoración
+Arte dramático, Arte histriónico
+Arte teatral, Arte del teatro
+Arte contemporáneo, Arte reciente
+Arte contemporáneo en México, Arte reciente en México
+
+Cosmetología esteticista, Cosmetología en estética
+
+Estilista cosmetológica, Estilista cosmetóloga
+Estilista en cortes, Estilista especializada en cortes
+Estilista facial, Estilista del rostro
+Estilista profesional, Estilista de profesión
+Estilista de canes, Estilista de perros
+
+#Términos "Ingeniería" se movieron a referenciales
+
+Procesos computacionales, Procesos de computación
+Procesos de fabricación, Procesos de fábrica 
+Procesos de producción industrial, Procesos de producción en la industria 
+Procesos de producción pesquera, Procesos de producción en la pesca 
+Procesos industriales, Procesos en la industria, Ingeniero procesos industriales 
+Procesos agroindustriales, Procesos en la industria agrícola 
+Procesos de producción, Procesos productivos 
+Procesos de producción en el área metálica, Procesos de producción especializados en el área metálica 
+Procesos de producción textil, Procesos de producción en la industria textil 
+Procesos biotecnológicos, Procesos de biotecnología 
+Procesos alimenticios, Procesos en la industria alimenticia
+
+Mantenimiento de aeronaves sistemas eléctricos, Mantenimiento de sistemas eléctricos en aeronaves 
+Mantenimiento de aviación, Mantenimiento de aviones 
+Mantenimiento de equipo grafico especialidad en mantenimiento mecánico, Mantenimiento de equipo gráfico especializado en mantenimiento mecánico 
+Mantenimiento de equipo médico de laboratorio, Mantenimiento de equipo médico en laboratorio 
+Mantenimiento de equipo médico de quimioterapia, Mantenimiento de equipo quimioterapéutico 
+Mantenimiento de equipo médico de rayos x, Mantenimiento de aparato de rayos x 
+Mantenimiento de equipo médico electrónico, Mantenimiento de equipo electrónico en medicina 
+Mantenimiento de equipos pesqueros, Mantenimiento de equipos de pesca 
+Mantenimiento de máquinas industriales de costura, Mantenimiento de máquinas de costura industrial, Mantenimiento para máquinas de la industria costurera
+Mantenimiento industrial, Mantenimiento en la industria
+Mantenimiento mecánico industrial, Mantenimiento mecánico en la industria
+Mantenimiento de equipo agroindustrial, Mantenimiento de equipo de la industria agrícola 
+Mantenimiento de equipo médico quirúrgico, Mantenimiento de equipo quirúrgico en medicina 
+Mantenimiento de sistemas automáticos, Mantenimiento de sistemas automatizados 
+Mantenimiento de equipo de cómputo, Mantenimiento de equipo computacional 
+Mantenimiento automotriz, Mantenimiento en la industria automotriz
+Mantenimiento en la industria del calzado, Mantenimiento especializado en la industria del calzado
+
+Mecánico aparatista, Mecánico de aparatos 
+Mecánico de aviación, Mecánico de aviones, Mecánico de equipos de aviación
+Mecánico electricista, Mecánico especializado en electricidad
+Mecánico industrial, Mecánico especializado en procesos industriales 
+Mecánico fundidor, Mecánico especializado en fundición
+
+Análisis de alimentos, Análisis alimentario 
+Análisis químico biológicos, Análisis en área química biológica 
+Análisis clínicos, Análisis de clínica 
+Análisis regional, Análisis de las regiones 
+Análisis de sistemas industriales, Análisis de sistemas en la industria
+Análisis de sistemas computacionales, Análisis de sistemas de cómputo
+
+Control automático, Control automatizado 
+Control de calidad, Control cualitativo 
+Control de medio ambiente, Control ambiental 
+Control de producción, Control de índices de producción 
+Control de la contaminación ambiental, Control de la contaminación en el medio ambiente 
+
+Dirección de ediciones en procesos editoriales, Dirección de ediciones especializada en procesos editoriales 
+Dirección gráfica, Dirección de gráficos 
+Dirección coral, Dirección de coro 
+Dirección teatral, Dirección de teatro 
+Dirección de organizaciones, Dirección organizativa 
+Dirección ejecutiva de negocios, Dirección ejecutiva especializada en negocios 
+Dirección financiera, Dirección de finanzas
+
+Impresión en huecograbado, Impresión especializada en huecograbado
+Impresión offset, Impresión en formato offset
+
+Industrialización de frutas, Industrialización de productos frutales 
+Industrialización de lácteos, Industrialización de productos lácteos 
+Industrialización de producción agropecuaria, Industrialización especializada en producción agropecuaria
+
+Manufactura aislada por computadora, Manufactura aislada por equipo de cómputo
+Manufactura de artículos de plástico, Manufactura de artículos plásticos
+Manufacturas metálicas, Manufacturas en metal
+
+Maquinas con sistemas automatizados, Máquinas con sistemas automáticos
+
+Procesamiento de productos pesqueros, Procesamiento de productos de pesca
+Procesamiento industrial de alimentos, Procesamiento industrial alimentaria
+
+Productividad industrial, Productividad en la industria 
+Productividad agrícola, Productividad en la industria agrícola 
+Productividad agropecuaria, Productividad en la industria agropecuaria 
+Productividad de agroecosistemas, Productividad en agroecosistemas
+
+Tecnología de construcciones metálicas, Tecnología aplicada a construcciones metálicas 
+Tecnología de la madera, Tecnología aplicada a la industria maderera 
+Tecnología de alimentos, Tecnología alimentaria, 
+Tecnología deportiva, Tecnología en el deporte 
+Tecnología de la arquitectura, Tecnología aplicada en la arquitectura 
+Tecnología ambiental, Tecnología del medio ambiente 
+Tecnología de enzimas, Tecnología enzimática 
+Tecnología del petróleo, Tecnología petrolera 
+Tecnología de informática, Tecnología informática
+
+Oficial de máquinas, Oficial a cargo de maquinaria 
+Oficial de infantería, Oficial a cargo de infantería 
+Oficial militar de guerra, Oficial de guerra, Oficial militar 
+Oficial de estadísticas, Oficial a cargo de estadística 
+Oficial eléctrico, Oficial especializado en electricidad 
+Oficial radio operador, Oficial a cargo de comunicación radial
+Oficial ministerio público, Oficial del ministerio público 
+Oficial de barco, Oficial de embarcación
+Oficial de sanidad, Oficial sanitario
+
+Instrucción militar, Instrucción en el ejército
+Instrucción militar de nivel medio superior, Instrucción militar en nivel medio superior 
+Instrucción policial, Instrucción policiaca 
+Instrucción policial de nivel medio superior, Instrucción policial en nivel medio superior
+
+Agente de policía, Agente policiaco 
+Agente de policía federal, Agente policiaco federal 
+Agente de seguros, Agente de empresa de seguros 
+Agente aduanal, Agente de aduanas 
+Agente fiscal, Agente del fisco
+
+Detective privado, Detective particular
+
+Enseñanza de la fotografía, Enseñanza fotográfica, Educación fotográfica 
+Enseñanza musical escolar, Enseñanza musical en la escuela, Educación musical escolar
+Enseñanza de la educación básica, Enseñanza básica en educación 
+Enseñanza de la matemáticas, Enseñanza matemática, Educación matemática 
+Enseñanza de las ciencias, Enseñanza científica, Educación científica
+Enseñanza de las ciencias químicas, Enseñanza especializada en la ciencia química 
+Enseñanza de las matemáticas en computación educativa, Enseñanza matemática en computación educativa 
+Enseñanza del idioma inglés, Enseñanza del inglés 
+Enseñanza turística, Enseñanza del turismo, Educación turística
+
+#Términos "Técnico" y "Ciencias" en referenciales
+
+Desarrollo de instituciones educativas, Desarrollo en instituciones educativas  
+Desarrollo agrícola, Desarrollo en la industria agrícola
+Desarrollo agropecuario, Desarrollo de la industria agropecuaria
+Desarrollo rural, Desarrollo en el ámbito rural 
+Desarrollo comunitario, Desarrollo de la comunidad
+Desarrollo cultural comunitario, Desarrollo de la cultura en comunidad 
+Desarrollo económico, Desarrollo de la economía 
+Desarrollo empresarial, Desarrollo en las empresas 
+Desarrollo organizacional, Desarrollo de las organizaciones 
+Desarrollo regional, Desarrollo de las regiones 
+Desarrollo rural en organización social, Desarrollo rural especializado en organización social 
+Desarrollo rural regional en manejo de recursos, Desarrollo rural regional especializado en manejo de recursos 
+Desarrollo rural regional en mercados, Desarrollo rural regional especializado en mercados 
+Desarrollo social, Desarrollo de la sociedad 
+Desarrollo humano en la educación, Desarrollo humano especializado en la educación 
+Desarrollo humano en la organización, Desarrollo humano especializado en la organización 
+Desarrollo humano en la salud, Desarrollo humano especializado en la salud
+Desarrollo turístico, Desarrollo del turismo 
+Desarrollo de la educación básica, Desarrollo aplicado en la educación básica 
+Desarrollo docente, Desarrollo de personal docente
+Desarrollo educativo en diversidad sociocultural, Desarrollo educativo especializado en diversidad sociocultural
+Desarrollo educativo en enseñanza de las ciencias naturales, Desarrollo educativo especializado en enseñanza de las ciencias naturales 
+Desarrollo educativo en gestión pedagógica, Desarrollo educativo especializado en gestión pedagógica
+Desarrollo educativo en historia, Desarrollo educativo especializado en historia
+Desarrollo educativo en lengua, Desarrollo educativo especializado en lengua
+Desarrollo educativo en prácticas curriculares en la formación docente, Desarrollo educativo especializado en prácticas curriculares en la formación docente
+
+Comercialización agroindustrial, Comercialización en la industria agrícola
+
+Contaduría administrativa, Contaduría especializada en administración 
+Contaduría en área agrícola, Contaduría especializada en área agrícola 
+Contaduría en auditoria, Contaduría especializada en auditoría 
+Contaduría en contaduría general, Contaduría especializada en contaduría general 
+Contaduría en estadística, Contaduría especializada en estadística 
+Contaduría en impuestos, Contaduría especializada en impuestos 
+Contaduría en investigación de operaciones, Contaduría especializada en investigación de operaciones 
+Contaduría en sistemas de computación, Contaduría especializada en sistemas de computación
+Contaduría en sistemas funcionales de las empresas, Contaduría especializada en sistemas funcionales de las empresas
+Contaduría pública estatal, Contaduría pública del estado 
+Contaduría pública en auditoria, Contaduría pública especializada en auditoría 
+Contaduría pública en finanzas, Contaduría pública especializada en finanzas 
+Contaduría pública en impuestos, Contaduría pública especializada en impuestos 
+Contaduría pública en sistemas de información administrativa, Contaduría pública especializada en sistemas de información administrativa
+
+Organización turística, Organización de la industria turística 
+Organización turística internacional, Organización de la industria turística internacional
+Organización de procesos productivos, Organización de procesos de producción 
+Organización de promoción de proyectos, Organización promocional de proyectos 
+Organización de proyectos productivos, Organización de proyectos de producción
+
+Mercadotecnia en actualización internacional, Mercadotecnia especializada en actualización internacional
+Mercadotecnia en prensa, Mercadotecnia especializada en prensa 
+Mercadotecnia en radio, Mercadotecnia especializada en radio 
+Mercadotecnia en negocios turísticos, Mercadotecnia especializada en negocios turísticos
+
+Pedagogía diferencial en necesidades múltiples, Pedagogía diferencial especializada en necesidades múltiples 
+Pedagogía en ciencias naturales, Pedagogía especializada en ciencias naturales  
+Pedagogía en ciencias sociales, Pedagogía especializada en ciencias sociales 
+Pedagogía en español, Pedagogía especializada en español 
+Pedagogía en inglés, Pedagogía especializada en inglés 
+Pedagogía en matemáticas, Pedagogía especializada en matemáticas
+Pedagogía en orientación vocacional, Pedagogía especializada en orientación vocacional
+Pedagogía en planeación, Pedagogía especializada en planeación 
+Pedagogía en psicopedagogía, Pedagogía especializada en psicopedagogía 
+Pedagogía en teoría, Pedagogía especializada en teoría 
+Pedagogía musical, Pedagogía especializada en música 
+Pedagogía universitaria, Pedagogía a nivel universitario
+
+Finanzas corporativas, Finanzas en el ámbito corporativo
+Finanzas internacionales, Finanzas en el ámbito internacional 
+Finanzas públicas, Finanzas en el ámbito público
+
+Docencia tecnológica, Docencia especializada en tecnología
+Docencia universitaria, Docencia a nivel universitario
+Docencia de la cultura física, Docencia especializada en cultura física
+Docencia de la educación tecnológica, Docencia especializada en educación tecnológica
+Docencia de las matemáticas, Docencia especializada en matemáticas 
+Docencia en ciencias de la salud, Docencia especializada en ciencias de la salud 
+Docencia en ciencias sociales, Docencia especializada en ciencias sociales
+Docencia en educación en formación docente, Docencia especializada en educación en formación docente
+Docencia en educación superior, Docencia especializada en educación superior 
+Docencia en intervención pedagógica, Docencia especializada en intervención pedagógica 
+Docencia en medicina, Docencia especializada en medicina
+
+Oceanografía biológica, Oceanografía en biología 
+Oceanografía física, Oceanografía en física
+Oceanografía geológica, Oceanografía en geología
+Oceanografía química, Oceanografía en química
+
+#"Agronomía" pasa a referenciales
+
+Horticultura comercial, Horticultura dedicada al comercio 
+Horticultura en agronegocios, Horticultura especializada en agronegocios 
+Horticultura en floricultura, Horticultura especializada en floricultura 
+Horticultura en fruticultura, Horticultura especializada en fruticultura
+Horticultura en hortalizas, Horticultura especializada en hortalizas  
+Horticultura en oleicultura, Horticultura especializada en oleicultura 
+Horticultura tropical, Horticultura en el trópico 
+Horticultura ambiental, Horticultura del medio ambiente
+
+Parasitología agrícola, Parasitología en la industria agrícola
+Parasitología animal, Parasitología en animales 
+Parasitología entomológica, Parasitología en insectos 
+Parasitología fitonematologica, Parasitología en fitonematología
+Parasitología helmintológica, Parasitología en helmintología
+
+Protección vegetal, Protección de la vegetación
+Protección vegetal en control de malezas, Protección vegetal especializada en control de malezas
+Protección vegetal en entomología, Protección vegetal especializada en entomología
+Protección vegetal en fitopatología, Protección vegetal especializada en fitopatología
+
+Ciencia animal, Ciencia aplicada a animales 
+Ciencia animal tropical, Ciencias aplicada a animales del trópico 
+Ciencia de la carne, Ciencia de la industria de la carne 
+
+Medicina preventiva animal, Medicina preventiva para animales
+Medicina veterinaria patología de aves, Medicina veterinaria especializada en patología de aves 
+Medicina veterinaria en administración, Medicina veterinaria especializada en administración
+Medicina veterinaria en patología, Medicina veterinaria especializada en patología
+Medicina alópata, Medicina terapéutica
+Medicina humana, Medicina para humanos
+Medicina natural, Medicina naturista, 
+Medicina de rehabilitación, Medicina especializada en rehabilitación 
+Medicina del deporte, Medicina especializada en deporte
+Medicina del enfermo en estado crítico, Medicina especializada en enfermos críticos
+Medicina del trabajo, Medicina laboral 
+Medicina en patología celular, Medicina especializada en patología celular 
+Medicina escolar, Medicina en instituciones educativas 
+Medicina familiar, Medicina de la familia 
+ 
+Microbiología veterinaria, Microbiología especializada en veterinaria
+Microbiología industrial, Microbiología en la industria
+
+Nutrición animal, Nutrición para animales
+Nutrición humana, Nutrición para humanos
+
+Agroforesteria para el desarrollo sostenible en arboles de uso múltiple, Agroforesteria para el desarrollo sostenible especializada en árboles de uso múltiple
+Agroforesteria para el desarrollo sostenible en diseño, Agroforesteria para el desarrollo sostenible especializada en diseño 
+Agroforesteria para el desarrollo sostenible en economía ambiental, Agroforesteria para el desarrollo sostenible especializada en economía ambiental 
+Agroforesteria para el desarrollo sostenible en interacción de componentes, Agroforesteria para el desarrollo sostenible especializada en interacción de componentes 
+
+Arquitectura bioclimática, Arquitectura especializada en bioclimática
+Arquitectura en administración de la construcción, Arquitectura especializada en administración de la construcción
+Arquitectura en conservación de asentamientos históricos, Arquitectura especializada en conservación de asentamientos históricos 
+Arquitectura en conservación del patrimonio arquitectónico, Arquitectura especializada en conservación del patrimonio arquitectónico 
+Arquitectura en construcción, Arquitectura especializada en construcción 
+Arquitectura en diseño, Arquitectura especializada en diseño 
+Arquitectura en diseño urbano, Arquitectura especializada en diseño urbano 
+Arquitectura en medio ambiente, Arquitectura especializada en medio ambiente 
+Arquitectura en restauración, Arquitectura especializada en restauración 
+Arquitectura en tecnología, Arquitectura especializada en tecnología 
+Arquitectura en administración de obras, Arquitectura especializada en administración de obras 
+Arquitectura en asentamientos humanos, Arquitectura especializada en asentamientos humanos 
+Arquitectura en desarrollo, Arquitectura especializada en desarrollo 
+Arquitectura en diseño de interiores, Arquitectura especializada en diseño de interiores
+Arquitectura en diseño gráfico, Arquitectura especializada en diseño gráfico 
+Arquitectura en diseño industrial, Arquitectura especializada en diseño industrial 
+Arquitectura en diseño urbano, Arquitectura especializada en diseño urbano 
+Arquitectura en elementos de restauración, Arquitectura especializada en elementos de restauración 
+Arquitectura en estructuras, Arquitectura especializada en estructuras 
+Arquitectura en planeación, Arquitectura especializada en planeación 
+Arquitectura en proyectos, Arquitectura especializada en proyectos 
+Arquitectura en realización, Arquitectura especializada en realización
+Arquitectura en terminales de transportes, Arquitectura especializada en terminales de transportes 
+Arquitectura en viviendas, Arquitectura especializada en viviendas 
+Arquitectura naval, Arquitectura especializada en la industria naval
+
+Investigación arquitectónica, Investigación especializada en arquitectura 
+Investigación del patrimonio cultural, Investigación especializada en patrimonio cultural 
+Investigación biomédica, Investigación especializada en biomedicina 
+Investigación biomédica básica, Investigación especializada en biomedicina básica 
+Investigación biométrica básica, Investigación especializada en biometría básica
+Investigación de servicios de salud, Investigación especializada en servicios de salud 
+Investigación antropológica, Investigación especializada en antropología 
+Investigación en psicología aplicada a la educación, Investigación especializada en psicología aplicada a la educación
+Investigación psicoanalítica, Investigación especializada en psicoanálisis 
+Investigación psicológica, Investigación especializada en psicología 
+Investigación educativa, Investigación especializada en educación 
+Investigación en ciencias de la educación, Investigación especializada en ciencias de la educación
+
+Planeación metropolitana, Planificación metropolitana 
+Planeación urbana, Planificación urbana
+Planeación urbana regional, Planeación urbana en el ámbito regional 
+Planeación rural, Planeación en el ámbito rural  
+Planeación de obras, Planeación de obras públicas 
+Planeación agropecuaria, Planeación en la industria agropecuaria 
+Planeación de empresas, Planeación empresarial 
+Planeación financiera, Planeación de finanzas
+Planeación industrial, Planificación industrial
+
+Planificación de asentamientos humanos, Planeación de asentamiento humano
+Planificación regional, Planificación de regiones 
+Planificación para el desarrollo agropecuario, Planificación para el desarrollo de la industria agropecuaria 
+Planificación de empresas de desarrollo regional, Planificación empresarial de desarrollo regional
+Planificación del desarrollo regional, Planificación especializada en desarrollo regional 
+Planificación industrial en sector privado, Planificación industrial especializada en sector privado 
+Planificación industrial en sector público, Planificación industrial especializada en sector público
+
+Restauración arquitectónica, Restauración en arquitectura 
+Restauración arquitectónica de bienes culturales, Restauración arquitectónica especializada en bienes culturales 
+Restauración de arquitectura prehispánica, Restauración arquitectónica de la época prehispánica 
+Restauración de monumentos, Restauración especializada en monumentos 
+Restauración de sitios, Restauración especializada en sitios 
+Restauración forestal, Restauración de bosques
+
+Teoría de la arquitectura, Teoría arquitectónica 
+Teoría psicoanalítica, Teoría del psicoanálisis
+
+Biología animal, Biología de los animales 
+Biología celular, Biología de las células
+Biología de la producción, Biología productiva 
+Biología de la reproducción, Biología reproductiva 
+Biología de la reproducción animal, Biología reproductiva en animales 
+Biología de la reproducción humana, Biología reproductiva en humanos
+Biología del deporte, Biología especializada en el deporte
+Biología marina, Biología del mar 
+Biología molecular, Biología de las moléculas 
+Biología molecular en ingeniería genética, Biología molecular especializada en ingeniería genética 
+Biología molecular en medicina, Biología molecular especializada en medicina 
+Biología agropecuaria, Biología en la industria agropecuaria
+Biología bromatológica, Biología especializada en bromatología 
+Biología científica en biofísica, Biología científica especializada en biofísica 
+Biología científica en bioquímica, Biología científica especializada en bioquímica
+Biología científica en botánica, Biología científica especializada en botánica 
+Biología científica en microbiología, Biología científica especializada en microbiología 
+Biología científica en morfología, Biología científica especializada en morfología 
+Biología científica en parasitología, Biología científica especializada en parasitología 
+Biología científica en química, Biología científica especializada en química 
+Biología científica en zoología, Biología científica especializada en zoología
+Biología en acuacultura, Biología especializada en acuacultura 
+Biología en agroecología, Biología especializada en agroecología 
+Biología en biomédica, Biología especializada en biomédica 
+Biología en bioquímica, Biología especializada en bioquímica 
+Biología en botánica, Biología especializada en botánica 
+Biología en ecología, Biología especializada en ecología 
+Biología en ecología acuática, Biología especializada en ecología acuática 
+Biología en ecología terrestre, Biología especializada en ecología terrestre
+Biología en ecosistemas terrestres, Biología especializada en ecosistemas terrestres 
+Biología en farmacología, Biología especializada en farmacología 
+Biología en fisiología, Biología especializada en fisiología 
+Biología en hidrobiología, Biología especializada en hidrobiología 
+Biología en limnologia, Biología especializada en limnología 
+Biología en manejo de recursos naturales, Biología especializada en manejo de recursos naturales 
+Biología en recursos renovables, Biología especializada en recursos renovables 
+Biología en zoología, Biología especializada en zoología 
+
+Biotecnología agropecuaria, Biotecnología en la industria agropecuaria 
+Biotecnología de la nutrición de rumiantes, Biotecnología especializada en nutrición de rumiantes 
+Biotecnología de plantas, Biotecnología especializada en plantas 
+Biotecnología en fermentaciones, Biotecnología especializada en fermentaciones 
+Biotecnología en procesos vegetales, Biotecnología especializada en procesos vegetales 
+Biotecnología en alimentos, Biotecnología especializada en alimentos
+Biotecnología en bioquímica industrial, Biotecnología especializada en bioquímica industrial 
+Biotecnología en desarrollo de productos, Biotecnología especializada en desarrollo de productos 
+
+Ecología básica, Ecología a nivel básico 
+Ecología forestal, Ecología de los bosques 
+Ecología marina, Ecología del mar 
+Ecología humana, Ecología del ser humano
+
+Manejo ambiental, Manejo del medio ambiente 
+Manejo de ecosistemas en zonas áridas, Manejo de ecosistemas en regiones áridas
+Manejo de recursos naturales, Manejo de recursos de la naturaleza 
+Manejo sustentable de los recursos naturales, Manejo sustentable de los recursos de la naturaleza 
+
+Meteorólogo militar, Meteorólogo del ejército
+
+Oceanologia física, Oceanología especializada en física
+Oceanologia química, Oceanología especializada en química
+
+Zootecnia en administración, Zootecnia especializada en administración
+Zootecnia en ganadería extensiva, Zootecnia especializada en ganadería extensiva
+Zootecnia en industrias agropecuarias, Zootecnia especializada en industrias agropecuarias 
+Zootecnia en nutrición animal, Zootecnia especializada en nutrición animal
+Zootecnia en sistemas de producción, Zootecnia especializada en sistemas de producción
+
+Pesca industrial, Pesca en la industria 
+Pesca deportiva, Pesca recreativa
+
+Médico cirujano, Médico con especialidad en cirugía 
+Médico cirujano naval, Médico con especialidad en cirugía naval 
+Médico homeópata, Médico con especialidad en homeopatía
+
+Terapia de la audición, Terapia auditiva
+Terapia del lenguaje, Terapia lingüística
+Terapia en comunicación humana, Terapia especializada en comunicación humana
+Terapia física, Terapia corporal
+Terapia respiratoria, Terapia especializada en la respiración 
+Terapia de juego aplicada a problemas emocionales, Terapia lúdica aplicada a problemas emocionales 
+Terapia de pareja, Terapia de relaciones de pareja 
+Terapia familiar, Terapia de relaciones familiares 
+Terapia familiar sistémica, Terapia sistémica de relaciones familiares 
+
+Odontología en anatomía dental, Odontología especializada en anatomía dental 
+Odontología en cirugía dental, Odontología especializada en cirugía dental 
+Odontología en endodoncia, Odontología especializada en endodoncia 
+Odontología en exodoncia, Odontología especializada en exodoncia 
+Odontología en histología dental, Odontología especializada en histología dental 
+Odontología en material dental, Odontología especializada en material dental
+Odontología en medicina estomatológica, Odontología especializada en medicina estomatológica 
+Odontología en oclusión dental, Odontología especializada en oclusión dental 
+Odontología en operatoria dental, Odontología especializada en operatoria dental 
+Odontología en ortodoncia, Odontología especializada en ortodoncia 
+Odontología en paradoncia, Odontología especializada en paradoncia 
+Odontología en periodoncia, Odontología especializada en periodoncia 
+Odontología en radiología, Odontología especializada en radiología 
+Odontología maxilofacial, Odontología especializada en cirugía maxilofacial 
+
+Biomedicina en apoyo hospitalario, Biomedicina especializada en apoyo hospitalario
+Biomedicina en desarrollo tecnológico, Biomedicina especializada en desarrollo tecnológico 
+Biomedicina en ingeniería clínica, Biomedicina especializada en ingeniería clínica 
+Biomedicina en instrumentación médica eléctrica, Biomedicina especializada en instrumentación médica eléctrica 
+Biomedicina en instrumentación médica mecánica, Biomedicina especializada en instrumentación médica mecánica 
+
+Filosofía de la ciencia, Filosofía científica 
+Filosofía social, Filosofía en el ámbito social 
+Filosofía política, Filosofía en el ámbito político
+
+Humanidades en filosofía, Humanidades especializadas en filosofía 
+Humanidades en historia, Humanidades especializadas en historia 
+Humanidades en lingüística, Humanidades especializadas en lingüística 
+Humanidades en literatura, Humanidades especializadas en literatura 
+
+Historia antigua, Historia de la antigüedad 
+Historia de México, Historia mexicana 
+Historia económica, Historia de la economía 
+Historia moderna, Historia de la época moderna 
+Historia contemporánea, Historia de la época contemporánea 
+Historia de las artes plásticas, Historia con especialidad en artes plásticas 
+Historia antigua medieval, Historia antigua del medioevo 
+Historia colonial, Historia de la colonia
+Historia de la arquitectura mexicana, Historia de la arquitectura en México 
+Historia de la ciencia, Historia científica 
+Historia del catolicismo en México, Historia del catolicismo mexicano 
+Historia del cristianismo en América Latina, Historia del cristianismo latinoamericano
+Historia del México actual, Historia de México en la actualidad 
+#Historia en divulgación de la historia, Historia especializada en divulgación de la historia 
+Historia en docencia, Historia en divulgación de la historia
+Historia en estudios latinoamericanos, Historia especializada en estudios latinoamericanos 
+Historia en historia de Chiapas, Historia especializada en historia de Chiapas 
+
+Antropología cultural, Antropología de la cultura 
+Antropología en arqueología, Antropología especializada en arqueología 
+Antropología en cultura popular, Antropología especializada en cultura popular 
+Antropología en etnohistoria, Antropología especializada en etnohistoria 
+Antropología en etnología, Antropología especializada en etnología
+Antropología en historia, Antropología especializada en historia
+Antropología física, Antropología especializada en física 
+Antropología lingüística, Antropología especializada en lingüística
+Antropología política, Antropología especializada en política 
+Antropología rural, Antropología en el ámbito rural 
+Antropología social en antropología de la educación, Antropología social especializada en antropología de la educación 
+Antropología social en antropología del desarrollo, Antropología social especializada en antropología del desarrollo 
+Antropología social en antropología política, Antropología social especializada en antropología política 
+Antropología social en antropología rural, Antropología social especializada en antropología rural 
+Antropología social en antropología urbana, Antropología social especializada en antropología urbana 
+Antropología social en etnología, Antropología social especializada en etnología 
+Antropología social en sociolingüística, Antropología social especializada en sociolingüística 
+Antropología urbana, Antropología metropolitana
+Antropología cultural, Antropología de la cultura 
+
+Letras bíblicas, Letras de la biblia 
+Letras españolas, Letras en lengua española 
+Letras en lingüística hispánica, Letras especializadas en lingüística hispánica 
+Letras en literatura española, Letras especializadas en literatura española
+Letras en literatura iberoamericana, Letras especializadas en literatura iberoamericana 
+Letras en literatura mexicana, Letras especializadas en literatura mexicana 
+
+Literatura clásica, Literatura clásica de la antigüedad, Literatura grecolatina
+Literatura dramática, Literatura teatral 
+Literatura hispano mexicana, Literatura hispánica en México 
+Literatura iberoamericana, Literatura de Iberoamérica 
+Literatura latinoamericana, Literatura de Latinoamérica
+Literatura mexicana, Literatura de México 
+Literatura de Hispanoamérica, Literatura hispanoamericana 
+Literatura del siglo XX, Literatura especializada en el siglo XX 
+
+Psicología conductual, Psicología de la conducta
+Psicología criminológica, Psicología especializada en el crimen
+Psicología de la adolescencia, Psicología especializada en la adolescencia
+Psicología de la conducta social, Psicología especializada en la conducta social
+Psicología del factor humano, Psicología especializada en factor humano
+Psicología del trabajo, Psicología especializada en el trabajo
+Psicología en análisis conductual, Psicología especializada en análisis de la conducta
+Psicología en área deportiva, Psicología especializada en deporte
+Psicología en orientación educativa, Psicología especializada en orientación educativa
+Psicología en orientación vocacional, Psicología especializada en orientación vocacional
+Psicología familiar, Psicología de la familia
+Psicología fisiológica, Psicología del cuerpo
+Psicología industrial, Psicología de la industria, Psicología para la industria
+Psicología infantil, Psicología de la niñez
+Psicología organizacional, Psicología organizacional empresarial
+Psicología pedagógica, Psicología en pedagogía
+Psicología psicofisiológica, Psicología especializada en psicofisiología
+Psicología social, Psicología especializada en la sociedad
+Psicología en educación especial, Psicología especializada en educación especial
+Psicología ambiental, Psicología especializada en el medio ambiente
+Psicología clínica con orientación psicoanalítica, Psicología clínica orientada al psicoanálisis
+Psicología clínica de infantes, Psicología clínica especializada en infantes
+Psicología clínica en salud pública, Psicología clínica especializada en salud pública
+Psicología clínica infantil, Psicología clínica especializada en infancia
+Psicología comunitaria, Psicología de la comunidad
+Psicología de la educación en perspectiva psicoanalítica, Psicología de la educación especializada en perspectiva psicoanalítica 
+Psicología de la educación en perspectiva psicogenética, Psicología de la educación especializada en perspectiva psicogenética
+Psicología de la educación en preescolar, Psicología de la educación especializada en preescolar
+Psicología del adolescente, Psicología en adolescencia
+Psicología del deporte, Psicología deportiva
+Psicología en acentuación clínica, Psicología especializada en acentuación clínica 
+Psicología en psicología clínica, Psicología especializada en psicología clínica
+Psicología en salud mental, Psicología especializada en salud mental
+Psicología en salud mental ocupacional, Psicología especializada en salud mental ocupacional
+Psicología general experimental en psicología de la salud, Psicología general experimental especializada en psicología de la salud
+Psicología gestalt, Psicología de sistema gestalt
+Psicología social de grupos, Psicología social especializada en grupos
+Psicología terapéutica, Psicología especializada en terapia
+
+Psicopedagogía educativa, Psicopedagogía en instituciones educativas 
+Psicopedagogía integral, Psicopedagogía de integración
+
+Química agrícola, Química en la industria agrícola 
+Química en administración, Química especializada en administración 
+Química en alimentos, Química especializada en alimentos 
+Química en metalurgia, Química especializada en metalurgia 
+Química en petróleo, Química especializada en petróleo 
+Química industrial, Química en la industria 
+Química farmacéutica biológica, Química farmacéutica con especialidad en biología 
+Química en análisis clínicos, Química especializada en análisis clínicos
+Química en procesos de producción, Química especializada en procesos de producción 
+
+Químico bacteriólogo, Químico en bacteriología, Químico con especialidad en bacteriología 
+Químico biólogo, Químico en biología, Químico con especialidad en biología 
+Químico biólogo agropecuario, Químico en biología agropecuaria, Químico con especialidad en biología agropecuaria  
+Químico biólogo bromatólogo, Químico en biología bromatológica, Químico con especialidad en biología bromatológica 
+Químico biólogo en análisis clínicos, Químico biólogo especializado en análisis clínicos
+Químico biólogo en tecnología de los alimentos, Químico biólogo especializado en tecnología de los alimentos 
+Químico biólogo parasitólogo, Químico en biología parasitológica, Químico con especialidad en biología parasitológica 
+Químico clínico biólogo, Químico clínico con especialidad en biología 
+Químico farmacéutico, Químico con especialidad en farmacéutica 
+Químico farmacéutico biólogo en alimentos, Químico farmacéutico con especialidad en biología alimenticia 
+Químico farmacéutico biólogo en bioquímico clínico, Químico farmacéutico con especialidad en biología en bioquímica clínica 
+Químico farmacéutico biólogo en ciencias nucleares, Químico farmacéutico con especialidad en biología en ciencias nucleares 
+Químico farmacéutico biólogo en farmacia clínica, Químico farmacéutico con especialidad en biología farmacéutica clínica 
+Químico farmacobiologo, Químico con especialidad en farmacobiología 
+Químico farmacobiologo en alimentos, Químico farmacobiologo especializado en alimentos 
+Químico farmacobiologo en bioquímica, Químico farmacobiologo especializado en bioquímica 
+Químico farmacobiologo en bromatología, Químico farmacobiologo especializado en bromatología 
+Químico farmacobiologo en ciencias nucleares, Químico farmacobiologo especializado en ciencias nucleares 
+Químico farmacobiologo en clínica epidemiológica, Químico farmacobiologo especializado en clínica epidemiológica 
+Químico farmacobiologo en control de medicamentos, Químico farmacobiologo especializado en control de medicamentos 
+Químico farmacobiologo en farmacia clínica, Químico farmacobiologo especializado en farmacia clínica 
+Químico farmacobiologo en farmacia industrial, Químico farmacobiologo especializado en farmacia industrial 
+Químico farmacobiologo en industria farmacéutica, Químico farmacobiologo especializado en industria farmacéutica 
+Químico farmacobiologo en laboratorio clínico, Químico farmacobiologo especializado en laboratorio clínico 
+Químico farmacobiologo en microbiología, Químico farmacobiologo especializado en microbiología 
+Químico farmacobiologo en síntesis de fármacos, Químico farmacobiologo especializado en síntesis de fármacos 
+Químico farmacobiologo en tecnología de los alimentos, Químico farmacobiologo especializado en tecnología de los alimentos 
+Químico analista, Químico con especialidad en análisis 
+Químico azucarero, Químico de la industria azucarera, Químico de la industria del azúcar
+Químico en análisis industrial, Químico especializado en análisis industrial 
+Químico en control de calidad, Químico especializado en control de calidad 
+Químico en fármacos, Químico especializado en fármacos 
+Químico metalúrgico, Químico en metalurgia
+
+Bioquímica ambiental, Bioquímica del medio ambiente 
+Bioquímica en industrias alimentarias, Bioquímica especializada en industria alimentarias 
+Bioquímica en administración, Bioquímica especializada en administración 
+Bioquímica en administración de recursos acuáticos, Bioquímica especializada en administración de recursos acuáticos 
+Bioquímica en administración en ciencias marítimas, Bioquímica especializada en administración en ciencias marítimas
+Bioquímica en administración en explotación de recursos, Bioquímica especializada en administración en explotación de recursos 
+Bioquímica en administración en servicios alimentarios, Bioquímica especializada en administración en servicios alimentarios 
+Bioquímica en alimentos, Bioquímica especializada en alimentos 
+Bioquímica en aprovechamiento de recursos acuáticos, Bioquímica especializada en aprovechamiento de recursos acuáticos 
+Bioquímica en bioingeniería ambiental, Bioquímica especializada en bioingeniería ambiental 
+Bioquímica en ciencias alimentarias, Bioquímica especializada en ciencias alimentarias 
+Bioquímica en ciencias marítimas, Bioquímica especializada en ciencias marítimas 
+Bioquímica en fermentaciones, Bioquímica especializada en fermentaciones 
+Bioquímica en microbiología, Bioquímica especializada en microbiología 
+Bioquímica en productos naturales, Bioquímica especializada en productos naturales 
+Bioquímica en tecnología de alimentos, Bioquímica especializada en tecnología de alimentos
+
+Sociología de la cultura, Sociología cultural
+Sociología agraria, Sociología en el campo agrario 
+Sociología de la educación, Sociología en el campo educativo 
+Sociología del trabajo, Sociología en el campo laboral 
+Sociología política, Sociología en el ámbito de la política, Sociología en política  
+Sociología rural, Sociología en el ámbito rural 
+Sociología urbana, Sociología en el ámbito urbano 
+Sociología de la comunicación, Sociología comunicativa 
+Sociología de la cultura, Sociología cultural 
+Sociología del desarrollo regional, Sociología especializada en desarrollo regional 
+Sociología del desarrollo rural, Sociología especializada en desarrollo rural 
+Sociología industrial, Sociología de la industria
+Sociología rural en comunicación rural, Sociología rural especializada en comunicación rural 
+Sociología rural en sociología rural, Sociología rural especializada en sociología rural
+
+Trabajo social escolar, Trabajo social en escuela, Trabajo social en institución educativa
+Trabajo social penitenciario, Trabajo social en penitenciaria, Trabajo social en institución penitenciaria 
+Trabajo social rural, Trabajo social en el ámbito rural 
+Trabajo social de la comunidad, Trabajo social comunitario 
+Trabajo social laboral, Trabajo social en el trabajo 
+Trabajo social medico asistencial, Trabajo social en asistencia médica 
+Trabajo social psiquiátrico, Trabajo social en psiquiatría 
+Trabajo social con orientación en desarrollo humano, Trabajo social orientado al desarrollo humano 
+Trabajo social en administración, Trabajo social administrativo 
+Trabajo social en investigación, Trabajo social especializado en investigación
+
+Estudios internacionales, Estudios especializados en el ámbito internacional 
+Estudios latinoamericanos, Estudios de América Latina, Estudios especializados en Latinoamérica 
+Estudios de filosofía en México, Estudios de filosofía especializados en México 
+Estudios humanísticos, Estudios especializados en humanidades 
+Estudios antropológicos de México, Estudios especializados en antropología mexicana 
+Estudios literarios, Estudios con enfoque literario 
+Estudios psicoanalíticos, Estudios con enfoque psicoanalítico
+Estudios de la familia, Estudios en torno a la familia
+Estudios de la mujer, Estudios en torno a la mujer 
+Estudios de la paz, Estudios en torno a la paz 
+Estudios de población, Estudios en torno a la población 
+Estudios de población regional, Estudios en torno a la población regional 
+Estudios del desarrollo rural, Estudios en torno al desarrollo rural 
+Estudios del este de Asia, Estudios especializados en el este de Asia 
+Estudios latinoamericanos en ciencias políticas, Estudios latinoamericanos especializados en ciencias políticas 
+Estudios latinoamericanos en filosofía, Estudios latinoamericanos especializados en filosofía 
+Estudios latinoamericanos en historia, Estudios latinoamericanos especializados en historia 
+Estudios latinoamericanos en literatura, Estudios latinoamericanos especializados en literatura 
+Estudios mesoamericanos, Estudios de Mesoamérica 
+Estudios orientales, Estudios de Oriente 
+Estudios regionales en desarrollo urbano, Estudios regionales especializados en desarrollo urbano 
+
+Relaciones económicas internacionales, Relaciones económicas en el ámbito internacional 
+Relaciones internacionales, Relaciones en el ámbito internacional
+Relaciones internacionales en comercio exterior, Relaciones en el ámbito internacional en comercio exterior 
+Relaciones económicas internacionales en estudios de la cuenca del pacifico, Relaciones económicas en el ámbito internacional en estudios de la cuenca del pacífico 
+
+Derecho administrativo, Derecho especializado en administración 
+Derecho agrario, Derecho en la industria agraria 
+Derecho burocrático, Derecho en el ámbito burocrático 
+Derecho civil, Derecho en el ámbito civil 
+Derecho mercantil, Derecho en el ámbito mercantil 
+Derecho corporativo internacional, Derecho corporativo en el ámbito internacional 
+Derecho criminal, Derecho en el ámbito criminal
+Derecho penal, Derecho en el ámbito penal 
+Derecho de la administración pública, Derecho especializado en administración pública 
+Derecho de las finanzas públicas, Derecho especializado en finanzas públicas 
+Derecho empresarial, Derecho de las empresas 
+Derecho en ciencias penales, Derecho especializado en ciencias penales 
+Derecho en derecho de América del norte, Derecho especializado en derecho de América del norte 
+Derecho en régimen de la administración, Derecho especializado en régimen de la administración 
+Derecho financiero, Derecho en finanzas 
+Derecho fiscal, Derecho en el ámbito fiscal 
+Derecho internacional, Derecho en el ámbito internacional 
+Derecho laboral, Derecho en el ámbito laboral 
+Derecho lauderia, Derecho en lauderia 
+Derecho político, Derecho en el ámbito político 
+Derecho social, Derecho en sociedad
+Derecho aduanal, Derecho en el ámbito aduanal 
+Derecho contractual, Derecho en el ámbito contractual 
+Derecho notarial, Derecho en el ámbito notarial 
+Derecho corporativo empresarial, Derecho corporativo en el ámbito empresarial 
+Derecho corporativo internacional, Derecho corporativo en el ámbito internacional 
+Derecho económico, Derecho en economía 
+Derecho electoral, Derecho en el ámbito electoral 
+Derecho en derecho de la empresa, Derecho especializado en derecho de la empresa 
+
+Composición musical, Composición de piezas musicales
+
+Economía agrícola, Economía en la industria agrícola, 
+Economía empresarial, Economía en el ámbito empresarial 
+Economía en administración, Economía especializada en administración 
+Economía en administración de negocios, Economía especializada en administración de negocios 
+Economía en antropología social, Economía especializada en antropología social 
+Economía en ciencia política, Economía especializada en ciencias política
+Economía en desarrollo económico, Economía especializada en desarrollo económico 
+Economía en desarrollo industrial, Economía especializada en desarrollo industrial 
+Economía en política económica, Economía especializada en política económica 
+Economía en sociología, Economía especializada en sociología 
+Economía en política económica, Economía especializada en política económica 
+Economía internacional, Economía en el ámbito internacional 
+Economía laboral, Economía en el ámbito laboral 
+Economía marítima, Economía del mar 
+Economía política, Economía en política 
+Economía agrícola en política agrícola, Economía agrícola especializada en política agrícola
+Economía de la empresa, Economía empresarial 
+Economía de la tecnología, Economía tecnológica 
+Economía de negocios, Economía en el ámbito de negocios 
+Economía del desarrollo rural en desarrollo rural, Economía del desarrollo rural especializada en desarrollo rural 
+Economía del desarrollo rural en planeación agropecuaria, Economía del desarrollo rural especializada en planeación agropecuaria 
+Economía del medio ambiente, Economía ambiental 
+Economía en desarrollo económico latinoamericano, Economía especializada en desarrollo económico latinoamericano
+Economía en formulación, Economía especializada en formulación
+Economía en historia económica, Economía especializada en historia económica 
+Economía en política del estado de México, Economía especializada en política del estado de México
+Economía energética, Economía en el ámbito energético
+Economía financiera, Economía en finanzas 
+Economía industrial, Economía en el ámbito industrial
+
+Aeronáutica en aerodinámica, Aeronáutica especializada en aerodinámica 
+Aeronáutica en estructuras, Aeronáutica especializada en estructuras 
+Aeronáutica militar, Aeronáutica en las fuerzas militares 
+Aeronáutica térmica, Aeronáutica especializada en térmica
+
+Geofísica ambiental, Geofísica del medio ambiente
+Geofísica en geotermia, Geofísica especializada en geotermia
+Geofísica en prospección petrolera, Geofísica especializada en prospección petrolera
+
+Geología en geohidrologia, Geología especializada en geohidrología 
+Geología en hidrocarburos, Geología especializada en hidrocarburos 
+Geología en petróleo, Geología especializada en petróleo 
+Geología en yacimientos minerales, Geología especializada en yacimientos minerales 
+Geología química, Geología especializada en química
+
+Matemáticas en computación, Matemáticas especializadas en computación 
+Matemáticas en estadística, Matemáticas especializadas en estadística 
+Matemáticas en matemáticas aplicadas, Matemáticas especializadas en matemáticas aplicadas 
+Matemáticas en matemáticas básicas, Geología especializada en matemáticas básicas 
+Matemáticas educativas, Matemáticas en educación
+
+Estadística social, Estadística en el ámbito social
+Estadística médica, Estadística en el ámbito médico 
+
+Actuaria financiera, Actuaria en finanzas 
+Actuaría en computación, Actuaria especializada en computación
+Actuaría en estadística en investigación de operaciones, Actuaria especializada en estadística en investigación de operaciones 
+Actuaría en seguros, Actuaria especializada en seguros 
+
+Física en ciencias de los materiales, Física especializada en ciencias de los materiales 
+Física teórica, Teoría en física 
+Física aplicada en corrosión, Física especializada aplicada en corrosión 
+Física aplicada en física de la salud, Física especializada aplicada en física de la salud
+Física aplicada en metrología, Física especializada aplicada en metrología 
+Física aplicada en nuevos materiales, Física especializada aplicada en nuevos materiales 
+Física de radiaciones, Física en radiación 
+Física en mecánica de fluidos, Física especializada en mecánica de fluidos 
+Física óptica, Física en óptica
+
+Explotación ganadera, Explotación de ganado, Explotación en la industria ganadera 
+Explotación minera, Explotación en minas, Explotación en la industria minera 
+Explotación petrolera, Explotación de petróleo, Explotación en la industria petrolera
+
+Atención social, Atención en el ámbito social 
+Atención social de nivel medio superior, Atención en el ámbito social de nivel medio superior 
+Atención social de nivel superior, Atención en el ámbito social de nivel superior
+
+Asistencia social, Asistencia en el ámbito social 
+Asistencia médica, Asistencia en el ámbito médico
+
+
+Promoción de la salud, Promoción de servicios de salud
+
+Toxicología industrial, Toxicología en la industria
+
+Farmacéutica industrial, Farmacéutica en la industria
+
+Idiomas de nivel medio superior, Instrucción de idiomas en el nivel medio superior
+Idiomas de nivel superior, Instrucción de idiomas en el nivel superior
+
+Interprete traductor en servicios, Interprete traductor especializado en servicios
+
+Graduación de patrones, Graduación especializada en patrones
+
+Evaluación socioeconómica de proyectos de investigación, Evaluación socioeconómica especializada en proyectos de investigación
+
+Problemas económicos agroindustriales, Problemas económicos en la industria agrícola 
+Problemas económicos agroindustriales en agricultura mundial, Problemas económicos en la industria agrícola en agricultura mundial 
+Problemas económicos en políticas agrícolas, Problemas económicos especializados en políticas agrícolas
+
+Gerencia de proyectos en construcción, Gerencia de proyectos especializada en construcción 
+Gerencia de servicios de salud, Gerencia especializada en servicios de salud 
+Gerencia empresarial, Gerencia en las empresas
+ 
+Gestión administrativa, Gestión en administración 
+Gestión de instituciones, Gestión institucional 
+Gestión educativa, Gestión en educación 
+
+Anatomía patológica, Anatomía especializada en patología
+
+Anestesia traumatológica, Anestesia especializada en traumatología
+
+Cirugía cardiovascular, Cirugía con especialidad en el sistema cardiovascular 
+Cirugía de abdomen, Cirugía abdominal 
+Cirugía de columna, Cirugía de columna vertebral 
+Cirugía de la boca, Cirugía bucal 
+Cirugía del tórax, Cirugía torácica 
+Cirugía pediátrica, Cirugía en área de pediatría 
+
+Fisiología celular, Fisiología de las células, Fisiología especializada en células 
+Fisiología médica, Fisiología en el ámbito médico
+
+Geriatría clínica, Geriatría en el ámbito clínico
+
+Hematología clínica, Hematología en el ámbito clínico
+
+Inmunología clínica, Inmunología en el ámbito clínico
+
+Neurobiología celular, Neurobiología de las células, Neurobiología especializada en células 
+
+Parasitología médica, Parasitología en el ámbito médico
+
+Patología clínica, Patología en el ámbito clínico
+
+Pediatría médica, Pediatría en el ámbito médico
+
+Psiquiatría clínica, Psiquiatría en el ámbito clínico 
+Psiquiatría en psicoterapia médica, Psiquiatría especializada en psicoterapia médica 
+Psiquiatría médica, Psiquiatría en el ámbito médico 
+Psiquiatría social, Psiquiatría en el ámbito social
+
+Rehabilitación de personas con alteraciones del lenguaje, Rehabilitación de personas con alteraciones lingüísticas 
+Rehabilitación neurológica, Rehabilitación especializada en neurología
+
+Terapéutica homeopática, Terapéutica con especialidad homeopática 
+Terapéutica homeopática en medicina general, Terapéutica homeopática especializada en medicina general
+
+Urología pediátrica, Urología con especialidad pediátrica
+
+Estomatología pediátrica, Estomatología con especialidad pediátrica
+
+Odontología operativa dental, Odontología especializada en operaciones dentales 
+Odontología parodoncia, Odontología con especialidad en parodoncia 
+Odontología patología bucal, Odontología con especialidad en patología bucal 
+Odontología preventiva, Odontología de prevención 
+Odontología radiología dental, Odontología con especialidad en radiología dental 
+Odontología restauradora, Odontología con especialidad en restauración
+
+Epidemiologia clínica, Epidemiología en el ámbito clínico 
+Epidemiologia oral, Epidemiología de la boca
+
+Filosofía contemporánea, Filosofía de la actualidad 
+Filosofía de la ciencia, Filosofía científica 
+Filosofía de la cultura, Filosofía cultural
+Filosofía de la política, Filosofía política
+Filosofía en administración, Filosofía administrativa
+Filosofía en educación, Filosofía educativa
+Filosofía en estudios latinoamericanos, Filosofía especializada en estudios latinoamericanos 
+Filosofía en psicología, Filosofía especializada en psicología
+Filosofía en trabajo social, Filosofía especializada en trabajo social
+Filosofía política, Filosofía especializada en política
+
+Creación literaria, Creación de piezas literarias, Creación de obras literarias
+
+Orientación educativa, Orientación en educación
+Orientación familiar, Orientación de la familia
+Orientación pediátrica, Orientación con especialidad pediátrica
+Orientación personal, Orientación individual 
+Orientación vocacional, Orientación de vocación
+
+Psicoanálisis contemporáneo, Psicoanálisis de la actualidad
+
+Psicoterapia familiar, Psicoterapia de familia
+Psicoterapia gestalt, Psicoterapia con enfoque gestalt 
+Psicoterapia humanista, Psicoterapia con enfoque humanista 
+Psicoterapia infantil gestalt, Psicoterapia infantil con enfoque gestalt
+Psicoterapia médica social, Psicoterapia médica en el ámbito social 
+Psicoterapia psicoanalítica, Psicoterapia con especialidad psicoanalítica 
+Psicoterapia psicoanalítica de la infancia, Psicoterapia psicoanalítica especializada en etapa infantil 
+Psicoterapia psicoanalítica individual, Psicoterapia psicoanalítica personal
+
+Bioingeniería en fermentaciones, Bioingeniería especializada en fermentaciones
+
+Farmacia en análisis farmacéutico, Farmacia especializada en análisis farmacéutico
+Farmacia en tecnología farmacéutica, Farmacia especializada en tecnología farmacéutica
+
+Farmacología básica, Farmacología elemental 
+Farmacología clínica, Farmacología en el ámbito clínico 
+Farmacología conductal, Farmacología de la conducta
+
+Política criminal, Política en el ámbito criminal 
+Política fiscal, Política en el ámbito fiscal 
+Política gubernamental, Política en el ámbito gubernamental 
+Política de comercio exterior, Política en comercio exterior
+
+Televisión educativa, Televisión con enfoque educativo
+
+Geografía económica, Geografía en el ámbito económico 
+Geografía en física aplicada, Geografía especializada en física aplicada
+Geografía en ordenamiento del territorio, Geografía especializada en ordenamiento del territorio
+Geografía en planeación, Geografía especializada en planeación
+
+Vías terrestres, Vías de transporte terrestre
+
+Automatización de sistemas, Automatización en sistemas 
+Automatización en ingeniería de cómputo, Automatización especializada en ingeniería de cómputo 
+Automatización en sistemas inteligentes, Automatización especializada en sistemas inteligentes
+
+Tramitación aduanal, Tramitación en el ámbito aduanal
+
+Instalación de viviendas, Instalación residencial
+
+Exploración petrolera, Exploración de pozos petroleros
+Exploración minera, Exploración de minas
+
+Capturista de datos, Capturista de información 
+Capturista ejecutiva, Capturista en nivel ejecutivo
+
+Hidrología subterránea, Hidrología especializada en niveles subterráneos
+
+Astrofísica en cosmología, Astrofísica especializada en cosmología 
+Astrofísica en historia de la astrofísica, Astrofísica especializada en historia de la astrofísica 
+Astrofísica en instrumentación astronómica, Astrofísica especializada en instrumentación astronómica 
+Astrofísica en medio interestelar, Astrofísica especializada en medio interestelar 
+Astrofísica en radioastronomía, Astrofísica especializada en radioastronomía 
+Astrofísica en relatividad general, Astrofísica especializada en relatividad general 
+
+Energía solar, Energía del sol 
+Energía solar en fototermica, Energía solar especializada en fototérmica 
+Energía solar en fotovoltaica, Energía solar especializada en fotovoltaica
+
+Óptica en ciencia de la imagen, Óptica especializada en ciencia de la imagen 
+Óptica en fotónica, Óptica especializada en fotonica 
+Óptica en instrumentación, Óptica especializada en instrumentación
+Óptica en proceso digital de imágenes, Óptica especializada en proceso digital de imágenes
+
+Liderazgo empresarial, Liderazgo en el ámbito empresarial, Liderazgo en las empresas 
+Liderazgo para el cambio en alta dirección, Liderazgo para el cambio especializado en alta dirección 
+Liderazgo tecnológico, Liderazgo en el ámbito tecnológico
+
+#Catálogo 21 (Ocupaciones)
+Administrador de personal, Administrador de planilla de empleados, Administrador de recursos humanos, Administrador de RRHH 
+Administrador de banco, Administrador de institución bancaria, Administrador bancario 
+Administrador de casa de cambio, Administrador de casa de cambio de divisas 
+Administrador de despacho contable, Administrador de despacho de contabilidad 
+Administrador financiero, Administrador en finanzas 
+Administrador de albergue, Administrador de posada, Administrador de hostal
+Administrador de guardería, Administrador de centro de cuidados infantiles 
+Administrador de academia de belleza, Administrador de instituto educativo para la belleza 
+Administrador de universidad, Administrador universitario 
+Administrador de jardín de niños, Administrador preescolar 
+Administrador de despacho abogados, Administrador de firma de abogados 
+Administrador jurídico, Administrador en derecho 
+Administrador agrícola, Administrador de la industria agrícola 
+Administrador de invernadero, Administrador de vivero 
+Administrador de rancho, Administrador de granja 
+Administrador de fábrica, Administrador de planta productor 
+Administrador de ladrillera, Administrador de empresa de ladrillos
+Administrador planta purificadora de agua, Administrador de purificadora de agua 
+Administrador taller de herrería, Administrador de taller herrero 
+Administrador de tortillería, Administrador de empresa tortillera
+Administrador de constructora, Administrador de empresa constructora 
+Administrador de empresa de computación, Administrador de empresa de servicios computacionales 
+Administrador de correos, Administrador de servicios postales 
+Administrador de periódico, Administrador de publicación periódica 
+Administrador de agencia transporte de carga, Administrador de empresa de transporte de carga 
+Administrador de empresa transportadora pasajeros, Administrador de empresa de transporte para pasajeros 
+Administrador de empresa transportadora mercancías, Administrador de empresa transportadora de productos 
+Administrador de distribuidora, Administrador de empresa distribuidora 
+Administrador de gasolinera, Administrador de establecimiento gasolinero 
+Administrador de plaza comercial, Administrador de establecimiento comercial 
+Administrador de salón de fiestas, Administrador de salón recreativo 
+Administrador de alquiler de casas, Administrador de arrendamiento inmobiliario 
+Administrador de bar, Administrador de cantina 
+Administrador de hotel, Administrador de empresa hotelera 
+Administrador de restaurante, Administrador de establecimiento restaurantes 
+Administrador de grupo musical, Administrador de conjunto musical 
+Administrador de biblioteca, Administrador bibliotecario
+Administrador público, Administrador en gestión pública
+Administrador de empresas, Administrador empresarial
+
+Director general fábrica, Director general de planta productora 
+Director general banco, Director general bancario, Director general de institución bancaria 
+Director general constructora, Director general de empresa constructora 
+Director general de seguros, Director general de empresa aseguradora 
+Director general de telecomunicaciones, Director general en el área de telecomunicaciones 
+Director de auditoria, Director en el área de auditoría 
+Director de salubridad, Director especialista en salubridad 
+Director de instituto ciencias salud, Director de institución especializada en ciencias de la salud 
+Director de centro de rehabilitación, Director encargado de centro de rehabilitación 
+Director de asilo, Director de albergue 
+Director de desarrollo económico, Director especialista en desarrollo económico 
+Director de CERESO, Director de institución carcelaria, Director de institución penitenciaria
+Director de estudios económicos, Director especialista en estudios económicos 
+Director de fomento minero, Director especialista en fomento minero 
+Director de guardería, Director de centro de cuidados infantiles 
+Director de programas sociales, Director especialista en programas sociales 
+Director de colegio idiomas, Director de colegio de lenguas 
+Director de escuela capacitación, Director de institución educativa enfocada a la capacitación 
+Director de escuela medio superior, Director de preparatoria, Director de prepa 
+Director de escuela primaria, Director de escuela a nivel básico, Director de primaria 
+Director de escuela secundaria, Director de escuela a nivel medio, Director de secundaria 
+Director de jardín de niños, Director de institución preescolar 
+Director de universidad, Director universitario 
+Director de educación especial, Dirección en educación especializada 
+Director de planeación educativa, Director especialista en planeación educativa 
+Director de desarrollo forestal, Director especialista en desarrollo forestal 
+Director de pesca, Director especialista en pesca 
+Director de programas de reforestación, Director encargado de programas de reforestación 
+Director de desarrollo agropecuario, Director encargado de desarrollo agropecuario 
+Director de minas, Director especialista en minas, Director minero 
+Director de potabilización, Director especialista en potabilización 
+Director de producción manufacturera, Director encargado de producción manufacturera 
+Director de centro de cómputo, Director encargado de centro de cómputo, Director de centro computacional
+Director de consultoría en sistemas, Director encargado de consultoría en sistemas 
+Director de comunicación social, Director encargado de comunicación social 
+Director de radiodifusora, Director encargado de radiodifusora 
+Director de canal de televisión, Director encargado de canal de televisión 
+Director de centro investigación, Director encargado de centro de investigación 
+Director de escena, Director encargado de escena 
+Director artístico, Director especialista en arte 
+Director creativo, Director especialista en creatividad
+Director de orquesta, Director de conjunto orquestal 
+Director de teatro, Director encargado de teatro 
+Director musical, Director de conjunto musical 
+Director de difusión cultural, Director encargado de difusión cultural
+
+Gerente general empresa de seguridad, Gerente general empresa de servicios de seguridad
+Gerente de calidad, Gerente encargado de calidad 
+Gerente de compras, Gerente encargado de compras 
+Gerente de logística, Gerente encargado de logística 
+Gerente contable, Gerente encargado de contabilidad 
+Gerente de banco, Gerente bancario, Gerente de institución bancaria
+Gerente de impuestos, Gerente encargado de impuestos 
+Gerente financiero, Gerente en finanzas 
+Gerente de capacitación recursos humanos, Gerente de capacitación de RRHH 
+Gerente de fábrica, Gerente de planta productora 
+Gerente de imprenta, Gerente encargado de imprenta 
+Gerente de planta, Gerente encargado de planta 
+Gerente de producción, Gerente encargado de producción 
+Gerente de sistemas, Gerente encargado de sistemas 
+Gerente de operaciones en telecomunicaciones, Gerente encargado de operaciones de telecomunicaciones 
+Gerente de sucursal telefónica, Gerente encargado de sucursal telefónica 
+Gerente de abastecimientos, Gerente encargado de abastecimientos 
+Gerente de carga aérea, Gerente encargado de carga aérea
+Gerente de empresa de mudanzas, Gerente encargado de empresas de mudanzas 
+Gerente de empresa naviera, Gerente encargado de empresa naviera
+Gerente de empresa comercializadora, Gerente encargado de empresa comercializadora 
+Gerente de empresa distribuidora, Gerente encargado de empresa distribuidora 
+Gerente de parque de diversiones, Gerente de parque recreativo 
+Gerente de discoteca, Gerente de centro nocturno 
+Gerente de proyectos, Gerente encargado de proyectos 
+Gerente de sucursal, Gerente encargado de sucursal
+
+Contralor administrativo, Contralor en administración
+
+Subdirector de protección civil, Subdirector a cargo de protección civil  
+Subdirector de escuela primaria, Subdirector a cargo de escuela primaria  
+Subdirector de escuela secundaria, Subdirector a cargo de escuela secundaria, Subdirector de secundaria 
+Subdirector de kinder, Subdirector a cargo de kinder 
+Subdirector de universidad, Subdirector a cargo de universidad
+Subdirector de minas, Subdirector a cargo de minas
+Subdirector de transporte urbano, Subdirector a cargo de la división de transporte urbano 
+
+Subgerente de banco, Subgerente de institución bancaria 
+Subgerente de sistemas informáticos, Subgerente de sistemas de información
+
+Superintendente de mina, Superintendente a cargo de mina 
+Superintendente de distribución energía, Superintendente a cargo de distribución energía 
+
+Productor artístico, Productor de arte 
+Productor de programas de televisión, Productor de programas televisivos 
+Productor de productos farmacobiologos, Productor de productos de farmacobiología
+
+Coordinador de planeación, Coordinador encargado de planeación 
+Coordinador comercial, Coordinador en el ámbito comercial 
+Coordinador de auditores, Coordinador encargado de auditores 
+Coordinador de ejecutivos de ventas, Coordinador encargado de ejecutivos de venta 
+Coordinador ingresos escolares, Coordinador encargado de ingresos escolares 
+Coordinador de hospital, Coordinador de institución de salud 
+Coordinador de programas de medio ambiente, Coordinador encargado de programas de medio ambiente
+Coordinador de programas de salud, Coordinador encargado de programas de salud
+Coordinador de protección civil, Coordinador encargado de protección civil
+Coordinador de servicios salud, Coordinador encargado de servicios de salud
+Coordinador normativo paramédico, Coordinador normativo de paramédicos
+Coordinador del departamento de cardiología, Coordinador encargado del departamento de cardiología 
+Coordinador general de almacenes, Coordinador general encargado de almacenes 
+Coordinador de logística, Coordinador encargado de logística
+Coordinador de banquetes, Coordinador encargado de banquetes
+Coordinador de comedor, Coordinador encargado de comedor
+Coordinador de restaurant bar, Coordinador encargado de restaurante bar
+Coordinador de cafetería, Coordinador encargado de cafetería
+Coordinador de bailarines, Coordinador encargado de bailarines 
+Coordinador de grabación, Coordinador encargado de grabación 
+Coordinador de grupo musical, Coordinador encargado de grupo musical
+Coordinador de programas, Coordinador encargado de programas 
+Coordinador de biblioteca, Coordinador encargado de biblioteca
+Coordinador de cultura, Coordinador encargado de cultura, Coordinación cultural 
+Coordinador de eventos sociales, Coordinador encargado de eventos sociales 
+Coordinador actividades deportivas, Coordinador encargado de actividades deportivas 
+Coordinador de spa, Coordinador encargado de spa
+Coordinador de lavandería, Coordinador encargado de lavanderia
+Coordinador de personal jardinero, Coordinador encargado de personal jardinero 
+Coordinador de servicios, Coordinador encargado de servicios
+
+Jefe de área de atención a pensionados, Jefe encargado de atención a pensionados
+Jefe de departamento de archivos, Jefe encargado de departamento de archivos 
+Jefe de almacén, Jefe encargado de almacén 
+Jefe de archivo, Jefe encargado de archivo 
+Jefe de bodega, Jefe encargado de bodega 
+Jefe administrativo, Jefe en administración 
+Jefe de compras, Jefe encargado de compras 
+Jefe de personal, Jefe encargado de personal, Jefe de recursos humanos, Jefe de RRHH 
+Jefe de recursos materiales, Jefe encargado de recursos materiales
+Jefe de mensajería, Jefe encargado de mensajería 
+Jefe de mercadotecnia, Jefe encargado de mercadotecnia
+Jefe de presupuestos, Jefe encargado de presupuestos 
+Jefe de contabilidad, Jefe encargado de contabilidad 
+Jefe de auditoria, Jefe encargado de auditoría 
+Jefe de cajas, Jefe encargado de cajas 
+Jefe de cajeros automáticos, Jefe encargado de cajeros automáticos 
+Jefe de costos, Jefe encargado de costos 
+Jefe de crédito, Jefe evaluador de crédito 
+Jefe de finanzas, Jefe encargado de finanzas, Jefe financiero
+Jefe de recaudación fiscal, Jefe encargado de recaudación fiscal
+Jefe de nómina, Jefe encargado de nómina 
+Jefe de seguros, Jefe encargado de seguros 
+Jefe de tesorería, Jefe encargado de tesorería 
+Jefe de cirugía, Jefe encargado de cirugía 
+Jefe de departamento salud, Jefe encargado de departamento de salud 
+Jefe de oftalmología, Jefe en el área de oftalmología 
+Jefe servicio urgencia, Jefe encargado de servicios de urgencias 
+Jefe comercial, Jefe de área comercial 
+Jefe de alquiler de autos, Jefe encargado de alquiler de autos 
+Jefe de cajas en ventas, Jefe encargado de cajas en ventas 
+Jefe de departamento de abarrotes, Jefe encargado de departamento de abarrotes 
+Jefe de edecanes en eventos sociales, Jefe encargado de edecanes en eventos sociales 
+Jefe de farmacia, Jefe encargado de farmacia 
+Jefe de piso en una tienda de autoservicio, Jefe encargado de piso en una tienda de autoservicio 
+Jefe de promotores, Jefe de promoción 
+Jefe departamento tienda departamental, Jefe encargado de departamento en tienda departamental 
+Jefe departamento ventas, Jefe encargado del departamento de ventas
+Jefe tienda autoservicio, Jefe encargado de tienda de autoservicio 
+Jefe de personal de automotel, Jefe encargado de personal en automotel
+Jefe de cocina, Jefe encargado de la cocina 
+Jefe de meseros, Jefe encargado de meseros 
+Jefe de servicio a huéspedes, Jefe encargado de servicio a huéspedes 
+Jefe de piso en hotel, Jefe encargado de piso en hotel 
+Jefe de departamento de audio, Jefe encargado de departamento de audio 
+Jefe de producción de televisora, Jefe encargado de producción en televisora 
+Jefe de departamento de proyectos culturales, Jefe encargado del departamento de proyectos culturales 
+Jefe de biblioteca, Jefe encargado de biblioteca 
+Jefe de cuadrilla de limpieza, Jefe encargado de cuadrilla de limpieza 
+Jefe de departamento de lavado, Jefe encargado de departamento de lavado 
+Jefe de departamento de masajes, Jefe encargado de departamento de masajes 
+Jefe de estética de depilación, Jefe encargado de estética de depilación 
+Jefe de intendencia, Jefe encargado de intendencia
+Jefe de velatorio, Jefe encargado de velatorio 
+Jefe de área, Jefe encargado de área 
+Jefe de laboratorio, Jefe encargado de laboratorio 
+Jefe de piso, Jefe encargado de piso
+
+Ajustador de seguros, Ajustador encargado de seguros
+Ajustador de siniestros, Ajustador encargado de siniestros
+
+Encargado de contabilidad, Encargado con especialidad en contabilidad 
+Encargado de banco de sangre, Encargado de banco de distribución de sangre 
+Encargado de clínica dental, Encargado de clínica especializada en servicios dentales 
+Encargado de centro de salud, Encargado de centro médico 
+Encargado de vigilancia sanitaria, Encargado de mantenimiento sanitario 
+Encargado de proyectos de danza, Encargado de proyectos dancísticos
+Encargado de proyectos de mercado, Encargado de proyectos mercadotécnicos
+Encargado de taller mecánico, Encargado de taller de servicios mecánicos 
+Encargado de electricistas, Encargado de personal electricista 
+Encargado de equipo de comunicación, Encargado de equipo comunicativo 
+Encargado de radar, Encargado de equipo de radar 
+Encargado del departamento electrónica, Encargado del área de electrónica 
+Encargado cyber renta de computadoras, Encargado de establecimiento de renta de computadoras
+Encargado de cuentas por cobrar, Encargado de cobranza
+Encargado de remates, Encargado de ofertas
+Encargado de apoyo comunitario, Encargado de apoyo a la comunidad
+Encargado de salas de juego, Encargado de salas recreativas 
+
+Supervisor regional de seguridad privada, Supervisor regional especializado en seguridad privada
+Supervisor de seguros, Supervisor especialista en seguros 
+Supervisor de mantenimiento industrial, Supervisor especialista en mantenimiento industrial
+Supervisor de mantenimiento mecánico, Supervisor encargado de mantenimiento mecánico 
+Supervisor electricistas, Supervisor a cargo de electricistas 
+Supervisor electricistas automotrices, Supervisor a cargo de electricistas automotrices 
+Supervisor instalaciones eléctricas, Supervisor encargado de instalaciones eléctricas 
+Supervisor personal instalación de redes comunicación, Supervisor encargado de personal en instalación de redes de comunicación 
+Supervisor recuperación energía, Supervisor encargado de recuperación de energía 
+Supervisor redes de distribución eléctrica, Supervisor encargado de redes de distribución eléctrica 
+Supervisor redes telefónicas, Supervisor encargado de redes telefónicas 
+Supervisor de seguridad industrial, Supervisor encargado de seguridad industrial 
+Supervisor de seguridad laboral, Supervisor encargado de seguridad laboral
+Supervisor de almacén, Supervisor encargado de almacén 
+Supervisor de cobranza, Supervisor encargado de cobranza 
+Supervisor de compras, Supervisor encargado de compras 
+Supervisor de embarque, Supervisor encargado de embarque 
+Supervisor de archivo, Supervisor encargado de archivo 
+Supervisor de cajas, Supervisor encargado de cajas 
+Supervisor de capturistas, Supervisor a cargo de capturistas 
+Supervisor de mensajería, Supervisor encargado de mensajería 
+Supervisor de transporte, Supervisor encargado de transporte 
+Supervisor de atención al cliente, Supervisor encargado de atención al cliente
+Supervisor de codificadores, Supervisor a cargo de codificadores 
+Supervisor de encuestadores, Supervisor a cargo de encuestadores 
+Supervisor de telefonistas, Supervisor a cargo de telefonistas 
+Supervisor de ventas, Supervisor encargado de ventas 
+Supervisor de tienda, encargado de tiendas
+Supervisor de promotores, Supervisor a cargo de promotores 
+Supervisor de cocina, Supervisor encargado de cocina 
+Supervisor de parques, Supervisor encargado de parques
+Supervisor de seguridad, Supervisor encargado de seguridad 
+Supervisor de vigilancia, Supervisor encargado de vigilancia 
+Supervisor de pesca, Supervisor encargado de pesca 
+Supervisor de enfermeras, Supervisor a cargo de enfermeras, Supervisor a cargo de personal de enfermería
+Supervisor de crédito, Supervisor evaluador de crédito 
+Supervisor de aduana, Supervisor encargado de aduana 
+Supervisor de operadores en planta industrial, Supervisor a cargo de operadores en planta industrial
+Supervisor de operadores de línea de producción, Supervisor a cargo de operadores de línea de producción
+Supervisor de operadores de empacado, Supervisor a cargo de operadores de empacado 
+Supervisor de operadores de planta de extracción de minerales, Supervisor a cargo de operadores de planta de extracción de minerales 
+Supervisor de ensamble de productos metálicos, Supervisor encargado de ensamble de productos metálicos 
+Supervisor de ensamble de productos electrónicos, Supervisor encargado de ensamble de productos electrónicos, Supervisor de ensamble de productos eléctricos, Supervisor encargado de ensamble de productos eléctricos 
+Supervisor de ensamble de partes automotrices, Supervisor encargado de ensamble de partes automotrices 
+Supervisor de calidad de productos eléctricos, Supervisor encargado de calidad de productos eléctricos, Supervisor de calidad de productos electrónicos, Supervisor encargado de calidad de productos electrónicos
+Supervisor de medios de transporte, Supervisor encargado de medios de transporte 
+Supervisor de fletes, Supervisor encargado de fletes 
+Supervisor de intendencia, Supervisor encargado de intendencia 
+Supervisor de personal de limpieza, Supervisor encargado de personal de limpieza 
+Supervisor de lavandería, Supervisor encargado de lavandería 
+Supervisor de autolavado, Supervisor encargado de autolavado 
+Supervisor de estacionamiento, Supervisor encargado de estacionamiento 
+Supervisor de obra civil, Supervisor encargado de obra civil 
+Supervisor de obra de construcción, Supervisor encargado de obra de construcción 
+Supervisor de obras públicas, Supervisor encargado de obras públicas 
+Supervisor de taller de hojalatería, Supervisor encargado de taller de hojalatería 
+Supervisor de taller de pailería, Supervisor encargado de taller de pailería 
+Supervisor de costureras, Supervisor a cargo de costureras 
+Supervisor de tapicería, Supervisor en el área de tapicería 
+Supervisor de ladrillera, Supervisor de empresa ladrillera
+
+Promotor de grupos musicales, Promotor de conjuntos musicales, Promotor musical 
+Promotor cultural, Promotor de la cultura
+Promotor deportivo, Promotor del deporte
+Promotor turístico, Promotor del turismo
+Promotor de ventas, Promotor comercial
+
+Representante artístico, Representante de arte
+Representante de ventas, Representante comercial
+Representante médico, Representante de salud
+
+Asesor administrativo, Asesor en administración 
+Asesor empresarial, Asesor en el ámbito empresarial 
+Asesor en administración de empresas, Asesor especializado en administración de empresas
+Asesor en recursos humanos, Asesor especializado en recursos humanos 
+Asesor gerencial, Asesor de gerencia 
+Asesor de medios de comunicación, Asesor de medios comunicativos
+Asesor de ventas, Asesor comercial 
+Asesor en comercio exterior, Asesor especializado en comercio exterior 
+Asesor en distribución, Asesor especializado en distribución 
+Asesor en trámites aduanales, Asesor especializado en trámites aduanales 
+Asesor de exportación, Asesor especializado en exportación
+Asesor turístico, Asesor de turismo 
+Asesor de casa de bolsa, Asesor de mercado cambiario 
+Asesor en desarrollo social, Asesor especializado en desarrollo social 
+Asesor político, Asesor de política 
+Asesor psicológico, Asesor de psicología, Consejero psicológico, Psicólogo
+
+Consultor administrativo, Consultor en administración 
+Consultor empresarial, Consultor de empresas 
+Consultor análisis organizacional, Consultor especializado en análisis organizacional 
+Consultor de mercadotecnia, Consultor mercadotécnico 
+Consultor en turismo sustentable, Consultor especializado en turismo sustentable 
+Consultor de información económica, Consultor especializado en información económica
+
+Auditor sistema gestión de calidad, Auditor especializado en sistemas de gestión de calidad 
+Auditor contable, Auditor especializado en contabilidad 
+Auditor fiscal, Auditor en el ámbito fiscal 
+Auditor interno, Auditor de procesos internos
+
+Diseñador de proyectos administrativos, Diseñador en proyectos de administración 
+Diseñador de accesorios industria del vestido, Diseñador de accesorios para la industria del vestido 
+Diseñador de alhajas, Diseñador de joyas 
+Diseñador de calzado, Diseñador de zapatos 
+Diseñador de chamarras, Diseñador de chaquetas 
+Diseñador de modas, Diseñador en la industria de la moda 
+Diseñador industria del vestido, Diseñador especializado en la industria del vestido 
+Diseñador automotriz, Diseñador en la industria automotriz, Diseñador de autos 
+Diseñador de circuitos integrados, Diseñador especializado en circuitos integrados 
+Diseñador de cocinas integrales, Diseñador especializado en cocinas integrales
+Diseñador de equipo industrial, Diseñador especializado en equipo industrial
+Diseñador de equipos de seguridad, Diseñador especializado en equipos de seguridad
+Diseñador de estructuras metálicas, Diseñador especializado en estructuras metálicas 
+Diseñador de piezas automotrices, Diseñador especializado en piezas automotrices
+Diseñador de vitrales, Diseñador especializado en vitrales
+Diseñador industrial, Diseñador especializado en la industria 
+Diseñador publicitario, Diseñador especializado en publicidad
+Diseñador de interiores, Diseñador especializado en interiores
+
+Investigador de mercado, Investigador mercadotécnico 
+Investigador en finanzas, Investigador financiero 
+Investigador de economía, Investigador económico 
+Investigador de historia, Investigador especializado en historia 
+Investigador de estudios socioeconómicos, Investigador especializado en estudios socioeconómicos 
+Investigador en demografía, Investigador especializado en demografía 
+Investigador de sociología, Investigador especializado en sociología 
+Investigador social, Investigador en el ámbito social 
+Investigador lingüista, Investigador especializado en lingüística 
+Investigador en filosofía, Investigador especializado en filosofía 
+Investigador en lenguas indígenas, Investigador especializado en lenguas indígenas 
+Investigador de neuropsicología, Investigador especializado en neuropsicología 
+Investigador de mercadotecnia, Investigador especializado en mercadotecnia 
+Investigador de crédito, Investigador con especialidad en crédito 
+Investigador de danza folklórica, Investigador especializado en danza folklórica
+
+Licenciado en mercadotecnia, Licenciado especializado en mercadotecnia
+Licenciado en comercio exterior, Licenciado especializado en comercio exterior
+Licenciado en turismo, Licenciado especializado en turismo 
+Licenciado economía agrícola, Licenciado especializado en economía agrícola
+Licenciado desarrollo, Licenciado especializado en desarrollo
+Licenciado gestión cultural, Licenciado especializado en cultural 
+Licenciado relaciones multiculturales, Licenciado especializado en relaciones multiculturales 
+Licenciado demografía, Licenciado especializado en demografía 
+Licenciado estudios latinoamericanos, Licenciado especializado en estudios latinoamericanos
+Licenciado estudios socioterritoriales, Licenciado especializado en estudios socioterritoriales
+Licenciado planificación desarrollo agropecuario, Licenciado especializado en planificación desarrollo agropecuario
+Licenciado en estudios políticos, Licenciado especializado en estudios políticos
+Licenciado en humanidades, Licenciado especializado en humanidades, Humanista
+Licenciado lengua, Licenciado especializado en lengua
+Licenciado letras clásicas, Licenciado especializado en letras clásicas
+Licenciado lingüística, Licenciado especializado en lingüística, Lingüista
+Licenciado literatura dramática, Licenciado especializado en literatura dramática,Licenciado literatura en teatro
+Licenciado psicopedagogía, Licenciado especializado en psicopedagogía, Psicopedagogo
+Licenciado educación primaria, Licenciado en educación básica
+
+Concertista en arpa, Concertista especializado en arpa 
+Concertista en canto, Concertista especializado en canto
+Concertista en clarinete, Concertista especializado en clarinete 
+Concertista en clavecín, Concertista especializado en clavecín  
+Concertista en contrabajo, Concertista especializado en contrabajo 
+Concertista en corno, Concertista especializado en corno 
+Concertista en fagot, Concertista especializado en fagot 
+Concertista en flauta, Concertista especializado en flauta
+Concertista en guitarra, Concertista especializado en guitarra
+Concertista en oboe, Concertista especializado en oboe
+Concertista en órgano, Concertista especializado en órgano
+Concertista en percusiones, Concertista especializado en percusiones
+Concertista en piano, Concertista especializado en piano
+Concertista en saxofón, Concertista especializado en saxofón
+Concertista en trombón, Concertista especializado en trombón
+Concertista en trompeta, Concertista especializado en trompeta
+Concertista en tuba, Concertista especializado en tuba
+Concertista en viola, Concertista especializado en viola
+Concertista en violín, Concertista especializado en violín
+Concertista en violoncelo, Concertista especializado en violoncelo
+
+Analista de alimentos, Analista en la industria alimenticia 
+Analista de métodos, Analista de metodología
+Analista adquisiciones, Analista especializado en adquisiciones 
+Analista de crédito, Analista especializado en crédito 
+Analista procedimientos, Analista especializado en procedimientos
+Analista seguridad social, Analista especializado en seguridad social 
+Analista de mercado, Analista especializado en mercado
+Analista aduanal, Analista especializado en aduana
+Analista bursátil, Analista especializado en mercado bursátil
+Analista contable, Analista especializado en contabilidad
+Analista de impuestos, Analista especializado en impuestos 
+Analista de seguros, Analista especializado en seguros 
+Analista financiero, Analista en finanzas 
+Analista de información demográfica, Analista especializado en información demográfica 
+Analista en polímeros, Analista especializado en polímeros
+Analista químico, Analista especializado en química 
+Analista bioquímico, Analista especializado en bioquímica 
+
+Especialista presupuestos, Especialista enfocado en presupuestos 
+Especialista en desarrollo social, Especialista enfocado en desarrollo social 
+Especialista en métodos enseñanza, Especialista en metodología educativa
+Especialista servicios aéreos, Especialista enfocado en servicios aéreos
+
+Proyectista financiero, Proyectista en finanzas 
+Proyectista de sentencias, Proyectista especializado en sentencias 
+Proyectista expedientes, Proyectista especializado en expedientes 
+Proyectista legal, Proyectista en el ámbito legal
+Proyectista juzgado, Proyectista en juzgado 
+Proyectista legal mercantil, Proyectista legal en el ámbito mercantil 
+Proyectista penal, Proyectista en el ámbito penal
+
+Perito de antropología forense, Perito especializado en antropología forense
+Perito criminalista, Perito con especialidad en criminalística
+Perito de tránsito, Perito especializado en tránsito
+Perito de aduana de mercancía, Perito de aduana, Perito aduanal de mercancía
+
+Abogado litigante, Abogado especializado en litigio, Abogado
+
+Ejecutivo jurídico, Ejecutivo con especialidad en área jurídica 
+Ejecutivo de atención a clientes, Ejecutivo especializado en atención a clientes 
+Ejecutivo telefónico, Ejecutivo vía telefónica 
+Ejecutivo de ventas, ejecutivo comercial
+
+Consejero matrimonial, Consejero para el matrimonio, Consejero de parejas 
+Consejero de empleo, Consejero laboral
+
+Reportero de periódico, Reportero de publicación periódica, Reportero
+
+Pintor al óleo, Pintor especializado en óleo
+Pintor muralista, Pintor de murales 
+
+Restaurador de pinturas, Restaurador especializado en pinturas 
+Restaurador de obras de arte, Restaurador especializado en obras de arte 
+Restaurador de esculturas, Restaurador especializado en esculturas 
+Restaurador de muebles de madera, Restaurador especializado en muebles de madera
+
+Dibujante caricaturista, Dibujante especializado en caricaturas, Dibujante de caricaturas, Caricaturista 
+Dibujante artístico, Dibujante especializado en arte 
+Dibujante de planos, Dibujante especializado en planos 
+Dibujante de planos arquitectónicos, Dibujante especializado en planos arquitectónicos 
+Dibujante industrial, Dibujante en la industria 
+Dibujante mecánico, Dibujante especializado en mecánica
+Dibujante publicitario, Dibujante especializado en publicidad
+
+Grabador artístico, Grabador especializado en arte 
+Grabador piedra, Grabador especializado en piedra
+Grabador de cristal, Grabador especializado en cristal
+
+Escultor artístico, Escultor especializado en arte 
+Escultor de barro, Escultor especializado en barro 
+Escultor de madera, Escultor especializado en madera
+Escultor de piedra, Escultor especializado en piedra
+
+Ingeniero civil administrador, Ingeniero civil en administración 
+Ingeniero civil ambiental, Ingeniero civil del medio ambiente
+Ingeniero ambiental, Ingeniero especializado en el ambiente
+Ingeniero civil de caminos, Ingeniero civil especializado en caminos 
+Ingeniero civil en construcción urbana, Ingeniero civil especializado en construcción urbana 
+Ingeniero civil en estructuras, Ingeniero civil especializado en estructuras 
+Ingeniero civil en desarrollo de la comunidad, Ingeniero civil especializado en desarrollo de la comunidad 
+Ingeniero civil en geotecnia, Ingeniero civil especializado en geotecnia 
+Ingeniero civil en hidráulica, Ingeniero civil especializado en hidráulica
+Ingeniero civil en mecánica de suelos, Ingeniero civil especializado en mecánica de suelos 
+Ingeniero civil en obras hidráulicas, Ingeniero civil especializado en obras hidráulicas
+Ingeniero civil en obras marítimas, Ingeniero civil especializado en obras marítimas
+Ingeniero civil en obras portuarias, Ingeniero civil especializado en obras portuarias
+Ingeniero civil en obras públicas, Ingeniero civil especializado en obras públicas 
+Ingeniero civil en obras urbanas, Ingeniero civil especializado en obras urbanas 
+Ingeniero civil en prefabricación de edificios, Ingeniero civil especializado en prefabricación de edificios 
+Ingeniero civil en sistemas de planeación, Ingeniero civil especializado en sistemas de planeación 
+Ingeniero civil en vías de comunicación, Ingeniero civil especializado en vías de comunicación 
+Ingeniero civil en vías terrestres, Ingeniero civil especializado en vías terrestres 
+Ingeniero civil hidroagrícola, Ingeniero civil especializado en hidroagricultura 
+Ingeniero civil para la dirección, Ingeniero civil especializado en dirección 
+Ingeniero constructor, Ingeniero civil especializado en construcción 
+Ingeniero en obras, Ingeniero civil especializado en obras
+Ingeniero de minas, Ingeniero civil especializado en minas 
+Ingeniero metalúrgico,Ingeniero Siderúrgico,Siderúrgico,metalúrgico
+Ingeniero petrolero, Ingeniero en la industria petrolera 
+Ingeniero minero, Ingeniero en la industria minera 
+Ingeniero en irrigación, Ingeniero especializado en irrigación 
+Ingeniero textil en acabados, Ingeniero textil especializado en acabados 
+Ingeniero textil en confección, Ingeniero textil especializado en confección 
+Ingeniero textil en hilados, Ingeniero textil especializado en hilados 
+Ingeniero textil en tejidos, Ingeniero textil especializado en tejidos 
+Ingeniero textil en tejidos de punto, Ingeniero textil especializado en tejidos de punto 
+
+Ayudante de laboratorio de física, Ayudante de laboratorio con especialidad en física
+Ayudante de investigador biológico, Ayudante de investigador en biología
+Ayudante de laboratorista industrial, Ayudante de laboratorista en la industria
+Ayudante de geólogo, Ayudante de especialista geólogo 
+Ayudante de técnico en refrigeración, Ayudante de técnico especializado en refrigeración 
+Ayudante de reparador refrigeradores, Ayudante de reparador de refrigeradores 
+Ayudante de tienda de abarrotes, Ayudante de establecimiento de abarrotes 
+Ayudante de refaccionaria, Ayudante de distribuidor de refacciones 
+Ayudante de chofer vendedor, Ayudante de chofer comercial
+Ayudante cyber renta de computadoras, Ayudante establecimiento de renta de computadoras, Ayudante de cibercafé 
+Ayudante de computación, Ayudante de servicios de cómputo 
+Ayudante de reparador de computadoras, Ayudante de reparador de equipos de cómputo 
+Ayudante equipo de sonido, Ayudante de equipo de sonido 
+Ayudante estudio fotográfico, Ayudante de estudio de fotografía 
+Ayudante agrícola, Ayudante en la industria agrícola 
+Ayudante floricultor, Ayudante de floricultura 
+Ayudante fruticultor, Ayudante de fruticultura
+Ayudante de riego agrícola, Ayudante de riego en la industria agrícola 
+Ayudante de cría de animales, Ayudante de cría animal 
+Ayudante de avicultor, Ayudante de avicultura, Ayudante de criador de aves 
+Ayudante de criador de cerdos, Ayudante de criador porcino 
+Ayudante de inseminador, Ayudante de inseminador animal 
+Ayudante de ordeñador, Ayudante de ordeñador de animales 
+Ayudante de invernadero, Ayudante en invernadero 
+Ayudante de forestador, Ayudante encargado de forestación
+
+Ensayador químico, Ensayador con especialidad en química
+
+Inspector ambiental, Inspector del medio ambiente 
+Inspector de ganado, Inspector ganadero 
+Inspector de control de calidad, Inspector de calidad 
+Inspector en materia de protección civil, Inspector de protección civil
+Inspector sanitario, Inspector encargado de sanidad 
+Inspector de aseo público, Inspector de higiene pública 
+Inspector de control de bebidas alcohólicas en comercios, Inspector de control alcohólico en comercios 
+Inspector escolar, Inspector de escuela
+Inspector de seguridad en el trabajo, Inspector de seguridad laboral 
+
+Promotor agrario, Promotor en la industria agraria 
+Promotor comunitario, Promotor en comunidad 
+Promotor de atención social, Promotor encargado de atención social 
+Promotor de programas sociales, Promotor encargado de programas sociales
+Promotor deportivo, Promotor de actividad física 
+Promotor cultural, Promotor de cultura
+Promotor de salud, Promotor encargado de salud
+Promotor social, Promotor en el ámbito social
+
+Laboratorista de rastro, Laboratorista encargado de rastro 
+Laboratorista de suelos, Laboratorista encargado de suelos
+Laboratorista agrobiólogo, Laboratorista con especialidad en agrobiología
+Laboratorista biomédico, Laboratorista con especialidad en biomédica 
+Laboratorista químico, Laboratorista con especialidad en química 
+
+Recolector de residuos tóxicos, Recolector encargado de residuos tóxicos 
+Recolector de lechuguillas, Recolector encargado de lechuguillas 
+Recolector de huevo, Recolector encargado de huevo
+Recolector de almeja, Recolector encargado de almeja 
+Recolector de leña, Recolector encargado de leña
+Recolector de basura, Recolector encargado de basura, Basurero
+Recolector de materiales, Recolector encargado de materiales
+Recolector de tierra, Recolector encargado de tierra
+
+Empleado en control de calidad, Empleado especializado en control de calidad 
+Empleado de mantenimiento de maquinaria industrial, Empleado especializado en mantenimiento de maquinaria industrial 
+Empleado de mantenimiento de congeladora, Empleado especializado en mantenimiento de congeladora 
+Empleado de mantenimiento de equipo de aire acondicionado, Empleado especializado en mantenimiento de equipo de aire acondicionado
+Empleado de mantenimiento de equipo de refrigeración, Empleado especializado en mantenimiento de equipo de refrigeración 
+Empleado de mantenimiento eléctrico, Empleado especializado en mantenimiento eléctrico 
+Empleado cyber renta de computadoras, Empleado de cyber renta de computadoras, Empleado de cibercafé, Empleado de cyber
+Empleado administrativo, Empleado en administración
+Empleado de intendencia, Empleado intendente, Empleado de limpieza
+Empleado de paquetería, Empleado de servicios de paquetería
+
+Mecánico reparación automotriz, Mecánico especializado en reparación automotriz, Mecánico de reparación de autos 
+Mecánico de maquinaria pesada, Mecánico especializado en maquinaria pesada 
+Mecánico de motocicletas, Mecánico especializado en motocicletas 
+Mecánico de motores de lanchas, Mecánico especializado en motores de lancha 
+Mecánico ajustador maquinaria, Mecánico ajustador de maquinaria 
+Mecánico de imprentas, Mecánico especializado en imprentas 
+Mecánico de maquinaria industrial, Mecánico especializado en maquinaria industrial
+Mecánico de máquinas de coser, Mecánico especializado en máquinas de coser
+Mecánico de molino, Mecánico especializado en molinos
+Mecánico textil, Mecánico en la industria textil
+Mecánico de aire acondicionado, Mecánico especializado en aire acondicionado 
+Mecánico en refrigeración, Mecánico especializado en refrigeración 
+Mecánico de bombas, Mecánico especializado en bombas
+
+Reparador de motocicletas, Reparador especializado en motocicletas 
+Reparador de muelles, Reparador especializado en muelles, Muellero
+Reparador de radiadores, Reparador especializado en radiadores
+Reparador de bicicletas, Reparador especializado en bicicletas
+Reparador de calderas, Reparador especializado en calderas
+Reparador de aparatos médicos, Reparador especializado en aparatos médicos
+Reparador de guitarras, Reparador especializado en guitarras
+Reparador de máquinas de escribir, Reparador especializado en máquinas de escribir
+Reparador de relojes, Reparador especializado en relojes
+Reparador de válvulas de cilindros de gas, Reparador especializado en válvulas de cilindros de gas
+Reparador de velocímetros, Reparador especializado en velocímetros
+Reparador de refrigeradores, Reparador especializado en refrigeradores
+Reparador de aire acondicionado, Reparador especializado en aire acondicionado
+Reparador de climas, Reparador especializado en climas
+Reparador de aparatos eléctricos, Reparador especializado en aparatos eléctricos, Reparador de electrónicos
+Reparador de aparatos electrodomésticos, Reparador especializado en aparatos electrodomésticos
+Reparador de celulares, Reparador especializado en celulares
+Reparador de líneas telefónicas, Reparador especializado en líneas telefónicas
+Reparador de máquinas de videojuegos, Reparador especializado en máquinas de videojuegos, Reparador de consolas de juegos
+Reparador de radios, Reparador especializado en radios
+Reparador de teléfonos celulares, Reparador especializado en teléfonos celulares
+Reparador de televisores, Reparador especializado en televisores
+Reparador de equipo de cómputo, Reparador especializado en equipos de cómputo
+
+Instalador de aire acondicionado, Instalador de equipos de aire acondicionado 
+Instalador de climas, Instalador de equipos de climas 
+Instalador de extractores de aire, Instalador de equipos de extracción de aire
+Instalador de alarmas, Instalador de equipos de alarma
+Instalador de antenas, Instalador de equipos de antena 
+Instalador de cable, Instalador de equipos de cable
+Instalador de cableado telefónico, Instalador de cableado de teléfono 
+Instalador de teléfonos, Instalador de equipos de teléfono 
+Instalador de anuncios publicitarios, Instalador de anuncios de publicidad 
+Instalador de sistemas de riego, Instalador de sistemas de irrigación 
+
+Electricista naval, Electricista en la industria naval, Electricista de embarcaciones
+Electricista doméstico, Electricista del hogar 
+Electricista industrial, Electricista en la industria
+Electricista automotriz, Electricista en la industria automotriz, Electricista de autos
+
+Embobinador eléctrico, Embobinador con especialidad en electricidad 
+Embobinador de motores, Embobinador con especialidad en motores
+
+Liniero de redes eléctricas, Liniero de redes de electricidad 
+
+Paramédico de rescate, Paramédico rescatista 
+Paramédico militar, Paramédico en ejército
+
+Cajero de banco, Cajero de institución bancaria
+Cajero de tienda comercial, Cajero de establecimiento comercial
+
+Cobrador de transporte pasajeros, Cobrador de transporte de pasajeros
+
+Guía de museo, Guía en museo
+Guía de parque, Guía en parque
+Guía de turistas, Guía turístico 
+
+Etiquetador de mercancía, Etiquetador de productos
+
+Vendedor por teléfono, Vendedor vía telefónica 
+Vendedor de piso, Vendedor encargado de piso 
+Vendedor de servicios funerarios, Vendedor encargado de servicios funerarios 
+Vendedor de lotes de panteón, Vendedor encargado de lotes de panteón
+Vendedor por catálogo, Vendedor por medio de catálogo 
+Vendedor ambulante de lotería, Vendedor ambulante de billetes de lotería
+Vendedor ambulante de alimentos, Vendedor ambulante de productos alimenticios 
+Vendedor ambulante de frutas, Vendedor de frutas ambulante
+Vendedor ambulante de dulces, Vendedor de dulces ambulante
+Vendedor ambulante de fruta picada, Vendedor de fruta picada ambulante
+Vendedor de saldo en casino, Runner
+
+Modelo de arte, Modelo artístico 
+Modelo de modas, Modelo en la industria de la moda, Modelaje
+Modelo de publicidad, Modelo publicitario
+
+Entrenador de caballos, Entrenador equino 
+Entrenador de perros, Entrenador canino
+
+Estilista de canes, Estilista canino, Estilista de perros
+
+Bombero forestal, Bombero especializado en bosques
+
+Custodio de valores, Protector de valores
+
+Trabajador en el cultivo del cacao, Trabajador especializado en el cultivo del cacao 
+Trabajador en el cultivo del tabaco, Trabajador especializado en el cultivo del tabaco 
+Trabajador de cultivos frutales, Trabajador especializado en cultivos frutales
+
+Peón agrícola, Peón en la industria agrícola, Peón agricultor
+
+Buzo sacador de ostras, Buzo extractor de ostras 
+Buzo industrial, Buzo en la industria
+
+Electromecánico automotriz, Electromecánico en la industria automotriz 
+Electromecánico industrial, Electromecánico en la industria 
+Electromecánico instrumentos medición, Electromecánico especializado en instrumentos de medición
+
+Editor de videofilmaciones, Editor especializado en videofilmaciones
+
+Filmador de eventos sociales, Filmador de eventos de sociedad 
+
+Aislador de sonido, Aislador sonoro, Aislador acústico
+Aislador de instalaciones de refrigeración, Aislador de instalaciones refrigeradas 
+
+Mezclador de música, Mezclador musical, DJ
+
+Aplicador de exámenes para adultos, Aplicador de exámenes para población adulta
+
+Maestro de canto, Maestro especializado en la instrucción de canto, Profesor de canto 
+Maestro de danza, Maestro especializado en la instrucción de danza, Instructor de danza
+Maestro de guitarra, Maestro especializado en la instrucción de guitarra, Instructor de guitarra 
+Maestro de piano, Maestro especializado en la instrucción de piano, Profesor de piano
+Maestro de pintura, Maestro especializado en la instrucción de pintura, Profesor de pintura
+Maestro de arte dramático, Maestro especializado en la instrucción de arte dramático, Profesor de arte dramático
+Maestro de escultura, Maestro especializado en la instrucción de escultura, Profesor de escultura
+Maestro de teatro, Maestro especializado en la instrucción de teatro, Licenciado literatura dramática y teatro, Profesor de teatro
+Maestro de vals, Maestro especializado en la instrucción de vals, Instructor de vals
+Maestro de computación, Maestro especializado en la instrucción de computación, Profesor de computación
+Maestro de belleza, Maestro especializado en la instrucción de belleza
+Maestro de cocina, Maestro especializado en la instrucción de cocina
+Maestro de estilismo, Maestro especializado en la instrucción de estilismo
+Maestro de manualidades, Maestro especializado en la instrucción de manualidades, Instructor de manualidades
+Maestro de carpintería, Maestro especializado en la instrucción de carpintería, Instructor de carpintería
+Maestro de mecánica automotriz, Maestro especializado en la instrucción de mecánica automotriz, Profesor de mecánica automotriz
+Maestro de educación física, Maestro especializado en la instrucción de educación física, Profesor de educación física
+Maestro de educación especial en área de lenguaje, Maestro de audición y lenguaje
+
+Capacitador electoral, Capacitador para proceso electoral 
+Capacitador empresarial, Capacitador en empresas 
+Capacitador en ventas, Capacitador comercial
+
+Corredor de bolsa de valores, Corredor bursátil
+
+Valuador inmuebles, Valuador inmobiliario, Valuador de joyas
+
+Capitán de aduana, Capitán encargado de aduana
+Capitán de barco de pasajeros, Capitán encargado de barco de pasajeros 
+Capitán de barco de carga, Capitán encargado de barco de carga 
+Capitán de barco patrulla, Capitán encargado de barco patrulla
+
+Dictaminador aduanal, Dictaminador de aduana
+
+Verificador aduanal, Verificador de aduana 
+Verificador de documentos en frontera, verificador de documentación en frontera 
+Verificador de permisos en establecimientos, Verificador de permisos en locales 
+Verificador fiscal, Verificador en el ámbito fiscal
+Verificador de autos, Verificador automotriz
+
+Recaudador de impuestos, Recaudador tributario
+
+Gestor social, Gestor en el ámbito social
+
+Decorador de interiores, Decorador especializado en interiores
+Decorador de aparadores comerciales, Decorador especializado en aparadores comerciales 
+Decorador de arreglos florales, Decorador especializado en arreglos florales
+Decorador de pasteles, Decorador especializado en pasteles
+
+Artesano en fabricación de artículos de marfil, Artesano especializado en fabricación de artículos de marfil 
+Artesano en productos del mar, Artesano especializado en productos del mar 
+Artesano de guitarras, Artesano especializado en guitarras
+Artesano de madera, Artesano especializado en madera 
+Artesano de mimbre, Artesano especializado en mimbre
+Artesano palma, Artesano especializado en palma
+Artesano de carrizo, Artesano especializado en carrizo
+Artesano de cartonería, Artesano especializado en cartón
+Artesano de flores de papel, Artesano especializado en flores de papel
+Artesano de muñecos de papel mache, Artesano especializado en muñecos de papel mache
+
+Maquinista de mina, Maquinista en mina
+
+Perforador de pozos petroleros, Perforador de pozos de petróleo 
+Perforador de pozos de agua, Perforador de mantos acuíferos
+
+Ensamblador de maquinaria mecánica, Ensamblador especializado en maquinaria mecánica 
+Ensamblador de partes para aviones, Ensamblador especializado en partes para aviones
+Ensamblador de equipos eléctricos, Ensamblador especializado en equipos eléctricos, Ensamblador de equipos electrónicos, Ensamblador especializado en equipos electrónicos
+
+Motorista de barco, Motorista con especialidad en barcos, Motorista de embarcaciones
+
+Conductor de lanchas, Conductor con especialidad en lanchas, operador de lanchas
+Conductor de maquinaria pesada en la construcción, Conductor de maquinaria pesada especializada en la construcción, Operador de maquinaria pesada en la construcción
+Conductor de maquinaria pesada en la minería, Conductor de maquinaria pesada especializada en la minería, Operador de maquinaria pesada en la minería
+Conductor de montacargas, Conductor de equipo montacargas, Operador de montacargas
+Conductor de bicitaxi, Conductor con especialidad en bicitaxi, operador de bicitaxi, conductor de bicitaxi, chofer de bicitaxi
+
+Limpiador de terrenos de cultivo, Limpiador de terrenos para cultivo 
+
+Peón jornalero agrícola, Peón jornalero en la industria agrícola
+
+Cargador de mineral, Cargador de bultos de mineral 
+Cargador de materiales, Cargador de bultos de material 
+Cargador de mercancías, Cargador de bultos de mercancía 
+Cargador de mudanzas, Cargador de bultos de mudanza
+
+Estibador de mina galería, Estibador de mina en galería
+
+Malacatero de mina, Malacatero en mina
+
+Empacador de prendas de vestir, Empacador de prendas 
+Empacador de alimentos, Empacador de productos alimenticios
+
+Comerciante ambulante de helados, Comerciante de helados ambulante 
+
+Empleada doméstica, Empleada del hogar, Servidumbre
+
+Mozo de casa, Dependiente de casa
+Mozo de hotel, Dependiente de hotel
+Mozo de restaurante, Dependiente de restaurante
+
+Lavador de platos, Aseador de platos 
+Lavador de vehículos en establecimiento, Aseador de vehículos en establecimiento 
+Lavador de vehículos en vía pública, Aseador de vehículos en vía pública
+
+Acomodador de autos, Acomodador de vehículos, Valet Parking
+
+Cuidador de autos en estacionamiento, Cuidador de vehículos en estacionamiento, Vieneviene
+
+Carpintero en obra negra, Carpintero especializado en obra negra 
+Carpintero de muebles, Carpintero especializado en muebles
+
+Minero, Trabajador de mina
+
+Arenero, Proveedor de arena
+
+Cantero, Trabajador de cantera
+
+Cribador, Seleccionador de semillas
+
+Perforista, Manejador de explosivos
+
+Albañil, Trabajador de construcción
+
+Palapero, Constructor de palapas
+
+Pastero, Preparador de pastes
+
+Plafonero, Instalador de plafones
+
+Yesero, Reparador con yeso
+
+Adoquinero, Instalador de adoquines
+
+Azulejero, Instalador de azulejos
+
+Pintor de barcos, Pintor especializado en barcos 
+Pintor de automóviles, Pintor especializado en automóviles, Pintor de autos 
+Pintor de estructuras metálicas, Pintor especializado en estructuras metálicas 
+Pintor de muebles metálicos, Pintor especializado en muebles metálicos 
+Pintor de calzado, Pintor especializado en calzado, Pintor de zapato 
+
+Pulidor de joyas, Pulidor de alhajas
+
+Tallador de muebles de madera, Tallador de mobiliario de madera
+
+Barnizador de muebles, Barnizador de mobiliario
+
+Tejedor de canastos de carrizo, Tejedor especializado en canastos de carrizo
+Tejedor de cintas de palma, Tejedor especializado en cintas de palma
+Tejedor de mimbre, Tejedor especializado en mimbre 
+Tejedor de petates, Tejedor especializado en petates 
+Tejedor de sombreros, Tejedor especializado en sombreros 
+Tejedor de prendas de vestir, Tejedor especializado en prendas de vestir 
+Tejedor de huipiles, Tejedor especializado en huipiles
+Tejedor de hamacas, Tejedor especializado en hamacas
+Tejedor de cobijas, Tejedor especializado en cobijas 
+Tejedor de carpetas,  Tejedor especializado en carpetas
+Tejedor de blusas de manta, Tejedor especializado en blusas de manta
+
+Revelador de fotografía, Revelador de material fotográfico
+Revelador de películas, Revelador de material cinematográfico
+
+Costurera de prendas de vestir, Costurera especializada en prendas de vestir
+
+Cortador de ropa en taller, Cortador especializado en ropa de taller
+
+Tapicero automotriz, Tapicero de la industria automotriz 
+Tapicero de muebles, Tapicero de mobiliario
+
+Raspador de cueros, Raspador de cuero
+
+Rasurador de pieles, Rasurador de piel
+
+Seleccionador de piel, Seleccionador de pieles
+
+Acabador de calzado, Acabador de zapatos
+
+Armador de calzado, Armador de zapatos
+
+Cosedor de calzado, Cosedor de zapatos
+
+Patronista de calzado, Patronista de zapatos
+
+Reparador de calzado, Reparador de zapatos
+
+Igualador de colores, Igualador cromático
+
+Encurtidor de vegetales, Encurtidor de productos vegetales
+
+Elaborador de dulces, Elaborador de productos de confitería
+
+Labrador de cantera, Labrador en cantera
+
+
+#Agregados por Víctor Mijangos
+#Estas variantes se basan en infocatalogoOcupación
+
+Chofer vendedor, Chofer encargado de ventas
+Chofer repartidor, Chofer encargado de distribución
+Chofer de camión materialista, Chofer de camión de materiales, operador de camión materialista 
+Chofer de vehículos de carga, Chofer de vehículos pesados de carga, operador de vehículos de carga
+Chofer de vehículos de paquetería, Chofer de transporte de paquetería, operador de vehículos de paquetería
+#Chofer de vehículos de mensajería, Chofer de transporte de mensajería, operador de vehículos de mensajería
+Chofer de vehículos de paquetería,Chofer de vehículos de mensajería,Chofer de transporte mensajería,Chofer de transporte paquetería
+Chofer de pipa de agua, Chofer de pipa, operador de pipa 
+Chofer de camión de basura, Chofer de transporte de basura, operador de camión de basura
+Chofer de taxi, Chofer de unidad de taxi, operador de taxi, taxista 
+Chofer de ambulancia, Chofer encargado de ambulancia
+Chofer de vehículos para transporte de personal, Chofer encargado de vehículos para transporte de personal, operador de vehículos para transporte de personal 
+Chofer de autobús escolar, Chofer encargado de autobús escolar, operador de autobús escolar 
+Chofer de vehículo particular, Chofer encargado de vehículo particular, chofer, operador de vehículo particular
+Chofer de transportes públicos masivos, operador de transporte público
+
+Animador (música programada), DJ
+Arquitecto urbanista, urbanista
+Asesor de nutrición, nutriólogo
+
+Avicultor, criador de aves
+Buzo de salvamento, Hombre rana de salvamento, salvavidas
+
+Candelillero, elaborador de cera
+Capacitador, instructor de personal
+Cinematografista, cinematógrafo, cineasta
+Cirujano dentista, dentista
+Cohetero, pirotécnico, fabricador de cohetes
+Conductor de mototaxi, chofer de mototaxi, operador de mototaxi, Conductor con especialidad en mototaxi
+Conductor de tren, maquinista, operador de tren
+Corrector de estilo, corrector de ortografía
+Corresponsal, reportero
+Criador de ganado ovino, ovejero
+Digitalizador, operador de escáner
+Diseñador de páginas web, programador gráfico
+Especialista en métodos enseñanza, educador
+Guía de buceo, Guía en ruta de buceo
+Herrador de caballos, Herrador equino
+Licenciado derecho, Abogado
+Licenciado literatura dramática, dramaturgo
+Licenciado psicopedagogía, psicopedagogo
+Mecánico reparación automotriz, Mecánico automotriz
+Médico, Cirujano, Doctor
+Mezclador de música, DJ
+Partera, Obstetra
+Piscicultor, Criador de peces
+Politólogo, Analista político
+Preparador físico, entrenador físico
+Programador sistemas computacionales, Programador informático
+Reportero gráfico, Corresponsal gráfico
+Rescatista, Socorrista
+Stripper, Desnudista
+Técnico administrativo, Técnico especializado en administración 
+Vendedor ambulante, Comerciante ambulante
+Vocero, Anunciador
+Encuestador, Practicador de encuestas, Encuestas
+Floricultor, Cultivador de flores
+Franelero, Limpiador de coches, Limpiador de autos

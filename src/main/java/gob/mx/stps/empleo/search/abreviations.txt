@@ -1,0 +1,362 @@
+#Abreviaciones versión 3.4
+#Catálogo 8 (Grado de estudios)
+Primaria, prim.
+Secundaria, sec.
+Secundaria técnica, sec.tec.
+Profesional, profes.
+Profesional técnico, profes.tec.
+Preparatoria, prepa.
+Maestría, mtría.
+#Catálogo 9 (Carreras)
+Artes, art.
+Gráficas, graf.
+Dibujo, dib.
+Industrial, ind.
+Mecánico, mec.
+Diseño, dis.
+Gráfico, graf.
+Apicultura, apicult.
+Auxiliar, aux.
+Enfermería, enfmría.
+Laboratorio, lab.
+Social, soc.
+Médica, med.
+Comunicación, comu.
+Telefonía, tel.
+Francés, fr.
+Arte, art.
+Composición, compos.
+Dramático, dramat., dram.
+Contemporanea, contempo.
+Folclórica, folc.
+Administración, admón.
+Contabilidad, contab., conta.
+Contador, cont.
+Privado, priv.
+Informática, inf.
+Servicios, serv.
+Turísticos, tur.
+Turismo, tur.
+Secretaria, secre.
+Bilingüe, bil.
+Ejecutiva, ejec.
+Computación, compu., comp.
+Español, esp.
+Secretariado, sriado.
+Educación, educ., edu.
+Profesor, profe., prof.
+Construcción, constr.
+Programación, progr.
+Sistemas, sist.
+Electricidad, electr.
+Electrónica, electro.
+Mantenimiento, mantto.
+Imprenta, impr.
+Repostería, repost.
+Seguridad, seg.
+Historia, hist.
+Transportes, transport,. transp.
+Telecomunicaciones, telecomu., telecom.
+Capilicultura, capilicult.
+Asistente, asist.
+Física, Fis.
+Tecnología, tecnolog., tecnol., tecno.
+Teleinformática, teleinform., teleinf.
+Electromecánica, electromec.
+Instalación, instal., inst.
+Autotransporte, autotransp., autotrans.
+Mecatrónica, mecatron.
+Televisión, televis., tele., tv.
+Aeronáutica, aeronaut., aeronau.
+Control, ctrl.
+Dirección, Dir.
+Fotomecánica, fotomec.
+Metalmecánica, metalmec.
+Supervisión, superv.
+Tecnología, tecnol.
+Ingeniería, ingría.
+Microindustria, microind.
+Calicultura, calicult.
+Cosmetología, cosmet.
+Detective, detec., det.
+Profesor, profr., prof.
+Administración, admin.
+Mercadotecnia, mercadotec., merca.
+Capital humano, KH.
+Estadística, estadist., estadis.
+Manufactura, manufact., manufac.
+Producción, prod.
+General, gral.
+Gastronomía, gastro.
+Recursos humanos, RRHH.
+Cultura, cult.
+Organización, org.
+Pedagogía, pedag.
+Puericultura, puericult.
+Finanzas, Fin.
+Docencia, Doc.
+Telebachillerato, telebachi., telebach.
+Ingeniero, ing.
+Cibernética, cibernet.
+Oceanografía, oceanograf.
+Agricultura, agricult.
+Agroecología, agroecol.
+Agroindustria, agroind.
+Avicultura, avicult.
+Fruticultura, fruticult.
+Horticultura, horticult.
+Veterinaria, Vet.
+Zootecnia, zootec.
+Porcilcultura, porcicult.
+Agricultura, agricult.
+Silvicultura, silvicult.
+Acuacultura, acuacult.
+Acuicultura, acuicult.
+Gericultura, gericult.
+Edafología, edafolog.
+Arquitectura, arquit.
+Semiótica, semio.
+Biofísica, biofis.
+Biología, biol.
+Biotecnología, biotec.
+Microbiología, microbiol.
+Morfología, morfolog.
+Climatología, climatol.
+Ecología, ecol.
+Hidrobiología, hidrobiol.
+Biotecnología, biotecno.
+Meteorología, meteorol.
+Oceanología, oceanol.
+Agrobiología, agrobiol.
+Agroquímica, agroquim.
+Psicultura, psicicult.
+Medicina, Med.
+Neurolingüística, neuroling.
+Rehabilitación, rehabil., rehab.
+Optometría, optomet.
+Odontología, odontol.
+Estomatología, estomatol.
+Psicotécnico, psicotec.
+Endocronología, endocronol.
+Filosofía, filos.
+Humanidades, human.
+Historia, hist.
+Antropología, antropol.
+Arqueología, arqueol.
+Etnohistoria, etnohist.
+Etnolingüística, etnoling.
+Literatura, lite., lit.
+Filología, filol.
+Lingüística, ling.
+Traducción, Trad.
+Psicología, psicol,. psico.
+Teología, teol.
+Misionología, misionol.
+Religión, Rel.
+Química, quim.
+Etnología, etnol.
+Farmacobiología, farmacobiol.
+Toxicología, toxicol.
+Farmacología, farmacol.
+Toxicología, toxicol.
+Bioquímica, bioquim.
+Sociología, sociol.
+Demografía, demograf.
+Derecho, Der.
+Criminología, criminol.
+Geografía, geograf.
+Etnomusicología, etnomusicol.
+Música, Mus.
+Musicología, musicol.
+Teatro, Teatr.
+Cinematografía, cinematograf.
+Escenografía, escenograf.
+Economía, econ.
+Topografía, topograf.
+Geofísica, geofis.
+Geología, Geol.
+Hidrografía, hidrograf.
+Matemáticas, Mat.
+Astronomía, astron.
+Agrosilvicultura, agrosilvicult.
+Fitotecnia, fitotec.
+Anestesiología, anestesiol.
+Gericultura, gericult.
+Podología, Podol.
+Radiología, Radiol.
+Imagenologia, Imagenol.
+Inmunología, Inmunol.
+Parasitología, Parasitol.
+Histopatología, histopatol.
+Petroquímica, petroquim.
+Coreografía, coreograf.
+Serigrafía, serigraf.
+Cartografía, cartograf.
+Escultura, Esc.
+Museología, museol.
+Pintura, pint.
+Alergología, Alergol.
+Angiología, Angiol.
+Cardiología, Cardiol.
+Cirugía, cirug.
+Dermatología, Dermatol.
+Endocrinología, Endocrinol.
+Epiceptologia, Epiceptol.
+Fisiología, Fisiol.
+Gastroenterología, Gastroenterol.
+Hematología, hematol.
+Infectologia, infectol.
+Inmunologia, inmunol.
+Inmunoparasitologia, Inmunoparasitol.
+Nefrología, Nefrol.
+Neonatología, Neonatol.
+Neumología, Neumol.
+Neurobiología, Neurobiol.
+Neurocirugía, neurocirug.
+Neuroetologia, Neuroetol.
+Neurología, Neurol.
+Oftalmología, Oftalmol.
+Oncología, Oncol.
+Otorrinolaringología, Otorrinolaringol.
+Perinatología, Perinatol.
+Proctología, Proctol.
+Reumatología, Reumatol.
+Toxicología, Toxicol.
+Urología, Urol.
+Embriología, Embriol. 
+Histología, Histol.
+Nutriología, Nutriol.
+Epidemiologia, Epidemiol.
+Tanatologia, Tanatol.
+Antropología, Antropol.
+Arqueología, Arqueol.
+Etnohistoria, Etnohist.
+Etnología, Etnol.
+Neuropsicología, Neuropsicol.
+Farmacología, Farmacol.
+Sociología, Sociol.
+Criminología, Criminol.
+Victimologia, Victimol.
+Metalurgia, metal.
+Bioelectronica, bioelectro.
+Telemática, telemat.
+Ventas, v.
+Secretariado, Sriado.
+Estenografía, estenograf.
+Ofimática, ofimat.
+Topografía, topograf.
+Programación, Progr.
+Hidráulica, Hidr.
+Hidrosistemas, Hidrosist.
+Hidrología, Hidrol
+Sismología, Sismol
+Astrofísica, Astrofís
+Óptica, Ópt.
+Optoelectrónica, Optoelectro.
+Economía, Econ.
+Bibliotecología, Bibliotecol.
+Auditoria, Audit.
+Contaduría, Conta.
+Psicopedagogía, Psicoped.
+#Catálogo 10 (Estatus grado)
+Estudiante, estud.
+#Catálogo 11 (Idiomas)
+#Alemán, alem.
+#Francés, fr.
+#Inglés, ing.
+#Italiano, ital.
+#Japonés, jap.
+#Catálogo 13 (Dominio)
+#NO APLICA
+#Catálogo 14 (Experiencia)
+#NO APLICA
+#Catálogo 15 (Tipo de empleo)
+#Temporal, temp.
+#Catálogo 21 (Ocupaciones)
+Administrador, Admor.
+Director, Direc., Dir.
+Subdirector, subdirec., subdir.
+Supervisor, superv.
+Editor, Edit.
+Coordinador, Coord.
+Auxiliar, Aux.
+Consultor, Cons.
+Auditor, Audit.
+Licenciado, Lic.
+Contador, Cont.
+Investigador, Inv.
+Antropólogo, Antrop.
+Arqueólogo, Arqueo.
+Paleontólogo, Paleont.
+Sociólogo, Sociol.
+Ejecutivo, Ejec.
+Filólogo, Filol.
+Filósofo, Filos.
+Psicólogo, Psicol.
+Adaptador, Adapt.
+Cronista, Cron.
+Traductor, trad.
+Físico, Fis.
+Ingeniero, Ing.
+Matemático, Mate.
+Biofísico, Biofis.
+Bioquímico, Bioquim.
+Biotecnólogo, Biotecnol.
+Citotecnólogo, Citotecnól.
+Embriólogo, Embriol.
+Hidrólogo, Hidról.
+Histólogo, Histól.
+Oceanólogo, Oceanol.
+Químico, Quim.
+Climatólogo, Climatol
+Meteórologo, Meteorol.
+Diseñador, Dis.
+Dasónomo, dason.
+Geólogo, Geol.
+Sismólogo, Sismól.
+Vulcanólogo, vulcanol.
+Arquitecto, Arqui.
+Inspector, inspec.
+Pedagogo- Pedag.
+Maestro, Mtro.
+Profesor, Prof.
+Doctor, Dr.
+Médico, Med.
+Cirujano, Ciruj.
+Biomédico, Biomed.
+Optometrista, Optomet.
+Fisiólogo, fisiol.
+Enfermera, Enf.
+Laboratorista, Lab.
+Asistente, Asist.
+Fotomecámica, Fotomec.
+Dibujante, Dib.
+Electricista, electr.
+Instalador, Inst.
+Reparador, Rep.
+Podólogo, Podol.
+Paramédico, Paramed.
+Secretaria, secre.
+Mecanigrafía, mecanograf.
+Taquimecanografía, taquimecanograf.
+Despachador, Desp.
+Chofer, chof.
+Modelo, Mod.
+Gastrónomo, Gastro.
+Cosmetóloga, cosmetol.
+Prefecto, Prefec.
+Camarógrafo, camarograf.
+Disc jockey, DJ.
+Fotógrafo, Fotograf.
+Controlador, Ctrlor.
+Instructor, Instror.
+Capitán, Cap.
+Gestor, Gest.
+Promotor, Prom.
+Diseñador, Dis.
+Decorador, Dec.
+Operador, Oper.
+Ensamblador, Ensamb.
+Conductor, Cond.
+técnico,t.
+auxiliar,aux.

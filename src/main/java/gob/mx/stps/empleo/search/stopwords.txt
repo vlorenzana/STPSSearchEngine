@@ -1,0 +1,15 @@
+#a, ante, bajo, con, de, desde, durante, en, entre, excepto, hacia, hasta, mediante, para, por, salvo, según, sin
+a, ante, bajo, con, de, desde, durante, en, entre, excepto, hacia, hasta, mediante, para, por, salvo, según
+mi, mis
+tu, tus
+su, sus
+nuestro, nuestra, nuestros, nuestras
+vuestro, vuestra, vuestros, vuestras
+su, sus
+el,la,lo,al
+los,las 
+un,una
+unos,unas
+y,o
+y/o
+del
